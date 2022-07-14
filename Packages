@@ -3074,6 +3074,30 @@ SomeOtherEntryToControl: True
 
 Package: AnhDuy.notchbanners
 Architecture: iphoneos-arm
+Version: 2.2.3
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: firmware (>=14.0), dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.libgscommon
+Filename: ./Deb/AnhDuy.notchbanners_2.2.3_iphoneos-arm.deb
+Size: 448904
+MD5sum: 02305ffefdcde7ccd127e2ba818b0510
+SHA1: 2c56e54dd50c5a7701e1bf1934e865050887599f
+SHA256: 7c0d59026df3d43db9f1e412d730910d248311404d23ebef809b838221974433
+SHA512: 2ca5d3a25bde3dc3e83b4a4ff84fed3a9205cea7d6ec5613cfa6f7e604f71d825ece1bc56cb37ee67a7e3bdb9dd719f9730db4394945ebe299f9a04b13ec08b4
+Homepage: https://ginsu.dev
+Description: Biểu ngữ thông báo đến từ tai thỏ!
+Tag: role::enduser
+Name: NotchBanners
+Depiction: http://cydiavn.github.io/info/notchbanners/?p=info
+SileoDepiction: http://cydiavn.github.io/info/notchbanners/?p=info
+Icon: https://repo.ginsu.dev/assets/com.ginsu.notchbanners/icon.png
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Author: Ginsu <njl02@outlook.com>
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+SomeOtherEntryToControl: True
+
+Package: AnhDuy.notchbanners
+Architecture: iphoneos-arm
 Version: 2.2
 Section: Tweaks
 Maintainer: Anh Duy
