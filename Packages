@@ -2032,6 +2032,23 @@ Author: IPALibrary <tuanbeo22061@hotmail.com>
 Depiction: http://cydiavn.github.io/info/bypasstechcombank/?p=info
 SileoDepiction: http://cydiavn.github.io/info/bypasstechcombank/?p=info
 
+Package: AnhDuy.calculatorhistory
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.calculatorhistory_1.1.2_iphoneos-arm.deb
+Size: 27824
+MD5sum: dd1d2322662d865ef5ea22a7c189e80b
+SHA1: 012dead07e112f837ae75062dfc925aa22c94ad2
+SHA256: 9eeb1300f7f67d6f8acab00d054245ca64ab5a3f4814c3d7bbc8a87aea0726fc
+SHA512: 9ad71f79ee02cf7a9cb21d26bf376e815d9b0678cc59a9eda0898164b88d290324076a8f436217cd5b6a077afd2787ee8b9626fd1a88b06c346a34d222b455ef
+Description: hiện lịch sử các phép tính trong App máy tính!
+Name: CalculatorHistory
+Author: Donato Fiore <donato.v.fiore@gmail.com>
+Depiction: http://cydiavn.github.io/info/calculatorhistory/?p=info
+SileoDepiction: http://cydiavn.github.io/info/calculatorhistory/?p=info
+
 Package: AnhDuy.chimbay
 Architecture: iphoneos-arm
 Version: 1.0
