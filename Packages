@@ -3442,14 +3442,34 @@ Version: 1.14-beta-2
 Section: Tweaks
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
 Installed-Size: 1234
-Depends: mobilesubstrate, preferenceloader, ru.rejail.libiarrays1 (>=1.0.13), com.rpetrich.rocketbootstrap, com.opa334.ccsupport
+Depends: mobilesubstrate, preferenceloader, org.mr.libiarrays (>=1.0.13), com.rpetrich.rocketbootstrap, com.opa334.ccsupport
 Filename: ./Deb/AnhDuy.simplus_1.14-beta-2_iphoneos-arm.deb
-Size: 699638
-MD5sum: 8a7248ca890ef1b49a6b713943f99c03
-SHA1: 9a4fb858d5b695ff0e839700c581051bb19b3286
-SHA256: b2c64a62dd8bf626a72361eceb47f4bb5e62249ffc18fac6b074cce311fef896
-SHA512: b6d08d1d0f82268d0741c1759a5dd49808a2768f6c57ead3ab52bdc11fd7cfa4a32113c1587185c88246a2d51cbad312145b687dc65865d4d1533e9fbba35e02
-Description: Cài đặt chi tiết cho eSIM / iPhone có thẻ SIM kép
+Size: 699630
+MD5sum: a5be82468816e07c7fb34027879f231a
+SHA1: ef94e895ac44ca5432ea77fad376b8c2cbeca5ff
+SHA256: 017edfc913325fea49e19ef9f25780a917ab91a23bba3eacd6618a205aad336d
+SHA512: 06cc81e216d5504beae5ba2d9f2087edefb8cd3009c737fc3e6a03710fb42aeca16d1e91e4a84f849bb2053aa5fa0157d7d4e9097ae46de1e1bbeed88fbef207
+Description: chọn Sim để gọi & gửi tin trên máy 2 Sim
+Name: eSim+
+Author: IArrays <support@iarrays.com>
+Icon: file:////Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.png
+Depiction: http://cydiavn.github.io/info/simplus/?p=info
+SileoDepiction: http://cydiavn.github.io/info/simplus/?p=info
+
+Package: AnhDuy.simplus
+Architecture: iphoneos-arm
+Version: 1.14-beta-3
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 1234
+Depends: mobilesubstrate, preferenceloader, org.mr.libiarrays (>=1.0.13), com.rpetrich.rocketbootstrap, com.opa334.ccsupport
+Filename: ./Deb/AnhDuy.simplus_1.14-beta-3_iphoneos-arm.deb
+Size: 643016
+MD5sum: cb3c81551185f0f52b8ed5f8e1921efa
+SHA1: 51cd484076610697d100dbcfe831a615022c49bf
+SHA256: 248d67f90ffabddf10e98addd8b47a80bebd11653a9daade95a2bc34779f9333
+SHA512: 69db69eb1d7f3e7f3d25ad11e8b7bc25c7abd7bcf836cd77a672a028319150591e322aec505f59b23fd39eac337fe2a4fa56a996d5f4b43471bc5be41cac5f25
+Description: chọn Sim để gọi & gửi tin trên máy 2 Sim
 Name: eSim+
 Author: IArrays <support@iarrays.com>
 Icon: file:////Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.png
@@ -4646,24 +4666,25 @@ Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Depiction: https://cydiavn.github.io/Debinfo/reprovision/?p=info
 SileoDepiction: https://cydiavn.github.io/Debinfo/reprovision/?p=info
 
-Package: ru.rejail.libiarrays1
+Package: org.mr.libiarrays
 Architecture: iphoneos-arm
-Version: 1.0.15-beta-5
+Version: 1.0.15-beta-10
 Section: Development
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Installed-Size: 1446
+Maintainer: MainRepo
+Pre-Depends: firmware (>=7.0)
 Conflicts: com.iarrays.libiarrays1
-Filename: ./Deb/ru.rejail.libiarrays1_1.0.15-beta-5_iphoneos-arm.deb
-Size: 464314
-MD5sum: 90d59f4cbe23939dbfa21a9bb8d3d109
-SHA1: 1fb976b3d6d226fb89338afedadcc897e30a2e4e
-SHA256: 01da750ffb53f35deb34041f1b8b5aa298abb645d7d1574fce4c5a058f658d64
-SHA512: 65995eb40cecb49457dc3066efef9352a9712cb91b2c2cf1849d276c2d94b3bb014dfb958ef716917f42956d4ae45d1fed657d4215b6dc13a539220078f5e4cd
-Description: Chỉ nên được sử dụng bởi các sản phẩm của IArrays. Đây là thư viện đã đóng và không có hỗ trợ nào được cung cấp cho gói này.
+Filename: ./Deb/org.mr.libiarrays_1.0.15-beta-10_iphoneos-arm.deb
+Size: 742376
+MD5sum: af56b55bf5ee5650cb11b7209c9464d2
+SHA1: 6b76a95cd3549975e7f953b7eed708b9bcf4bd15
+SHA256: 6b7d4794340c2c81c493dc17f63de16a195027fd9e0003811fd91ce07929a49c
+SHA512: 74b4784302d1afe34577f5646e54a8cccd7e83a8ca7d9e8b51b169875bd2e0ef7d01d4b08384ad95876c858abc295b77a572e4eea11b7a7d33d30535832ea908
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
 Name: libiarrays
 Author: IArrays <support@iarrays.com>
-Depiction: http://cydiavn.github.io/info/libiarrays1/?p=info
-SileoDepiction: http://cydiavn.github.io/info/libiarrays1/?p=info
+Depiction: https://mrepo.org/depiction/5085
+SileoDepiction: https://mrepo.org/sileo/5085
+Icon: https://mrepo.org/CydiaIcon.png
 
 Package: ru.rejail.limneosos
 Architecture: iphoneos-arm
