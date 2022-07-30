@@ -2615,6 +2615,29 @@ Author: Ginsu <njl02@outlook.com>
 Sponsor: Ginsu Tweaks <njl02@outlook.com>
 SomeOtherEntryToControl: True
 
+Package: AnhDuy.gradi
+Architecture: iphoneos-arm
+Version: 2.1.3
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: firmware (>=14.0), dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.libgscommon
+Filename: ./Deb/AnhDuy.gradi_2.1.3_iphoneos-arm.deb
+Size: 518792
+MD5sum: c91cd5fd00e635103f1aa5e1d2304acc
+SHA1: 0b4b1e7b7dfdd77bc7c225f749788e7b3e9ac702
+SHA256: 465a5497bd03b82a78daa613ca08d8c6e3d6e95285495fde5b93405c57510206
+SHA512: 42a75e58780ca8c1188f6c99efc72577452c56b843bf40634394d077fffd0d7ecda3996818372f9b909f6d0f0a17e9710c166660ffc4d77905be7c08879057d7
+Homepage: https://ginsu.dev
+Description: Thay thế trình phát mặc định bằng trình phát Google.
+Tag: role::enduser
+Name: Gradi
+Depiction: http://cydiavn.github.io/info/gradi/?p=info
+SileoDepiction: http://cydiavn.github.io/info/gradi/?p=info
+Tags: compatible_min::ios14.0, compatible_max::ios14.8
+Author: Ginsu <njl02@outlook.com>
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+SomeOtherEntryToControl: True
+
 Package: AnhDuy.hideserialnumber
 Architecture: iphoneos-arm
 Version: 0.0.1
