@@ -4483,6 +4483,26 @@ Depiction: http://cydiavn.github.io/info/liblottie/?p=info
 SileoDepiction: http://cydiavn.github.io/info/liblottie/?p=info
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.miro.libmiro
+Architecture: iphoneos-arm
+Version: 1.0.19-1
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 1676
+Depends: firmware (>=12.0), com.rpetrich.rocketbootstrap
+Filename: ./Deb/com.miro.libmiro_1.0.19-1_iphoneos-arm.deb
+Size: 462110
+MD5sum: 719e4308ecdea6cf11406c8324c811a2
+SHA1: 436335256d91381b86932b013ef2f7c212ef7928
+SHA256: 2634801bd9c7fa81aac01269dc917f85a1ed2c3dc9e6ce95c6aae2cbc0ccac39
+SHA512: 5bebc760b168f1ac9b1e355a76cfb411fba1da0944b720ba3ad7d4c8d313c85bc3b9ab9d2090048973dd29491f247c608e9df3813186d88e88c677d243583b72
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios12, compatible_max::ios14
+Name: libMiRO
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: http://cydiavn.github.io/info/libmiro/?p=info
+SileoDepiction: http://cydiavn.github.io/info/libmiro/?p=info
+
 Package: com.miro.libmiroprefs
 Architecture: iphoneos-arm
 Version: 1.0.8-1
