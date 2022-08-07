@@ -1748,6 +1748,27 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: http://cydiavn.github.io/info/audiorecorderxs/?p=info
 SileoDepiction: http://cydiavn.github.io/info/audiorecorderxs/?p=info
 
+Package: AnhDuy.audiorecorderxs
+Architecture: iphoneos-arm
+Version: 4.0-2
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 22808
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), org.mr.unsubs | org.mr.limneosos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./Deb/AnhDuy.audiorecorderxs_4.0-2_iphoneos-arm.deb
+Size: 2114120
+MD5sum: 31ebddb9d6ecc7141ead406a2ca357b6
+SHA1: 1684d4073ea9d6cdcd1f5bc2d1ae6962adffe24e
+SHA256: c4258a7965cb885790864448604485044154bc093aafec8e51d85af3272ebbba
+SHA512: 4988d495c878758253d6a595557215d83dea93ecf44eb24dc6c297a944e6fae55587f3ab9250079b5529cb5b6b516d272165f9b74b367b7bb6f3ae6fe6767495
+Description: Ghi âm tất cả các cuộc gọi thoại của bạn
+Name: AudioRecorder XS (iOS 12/13/14)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://cydiavn.github.io/info/audiorecorderxs/?p=info
+SileoDepiction: http://cydiavn.github.io/info/audiorecorderxs/?p=info
+
 Package: AnhDuy.autounlockx
 Architecture: iphoneos-arm
 Version: 1.0.16
@@ -4796,6 +4817,23 @@ Author: IArrays <support@iarrays.com>
 Depiction: https://mrepo.org/depiction/5085
 SileoDepiction: https://mrepo.org/sileo/5085
 Icon: https://mrepo.org/CydiaIcon.png
+
+Package: org.mr.unsubs
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: System
+Maintainer: Anh Duy
+Filename: ./Deb/org.mr.unsubs_0.0.6_iphoneos-arm.deb
+Size: 188038
+MD5sum: 6cab5cc41fcba77fb77ac635520b9518
+SHA1: 5c538999bfd0417e49bc30dcb889011659902a05
+SHA256: 99fc42a6ddfc99ad049d2738c3ac9103194fb02ea1a594cd605d0c005ce9f4de
+SHA512: 220c44a7e28cf2ee026c1b6ab820a393d5aa2ae0bf9565d98340d35624e0e12ce582976904cb123904491caccf71ab6fcc1a860009b7c60415a70d7fbd5ff473
+Description: Kích hoạt giấy phép cho các tinh chỉnh của Limneo
+Name: Unsubs
+Author: MainRepo
+Depiction: http://cydiavn.github.io/info/unsubs/?p=info
+SileoDepiction: http://cydiavn.github.io/info/unsubs/?p=info
 
 Package: ru.rejail.limneosos
 Architecture: iphoneos-arm
