@@ -4203,6 +4203,25 @@ Author: PoomSmart
 Depiction: http://cydiavn.github.io/info/youpip/?p=info
 SileoDepiction: http://cydiavn.github.io/info/youpip/?p=info
 
+Package: AnhDuy.youtubepatcher
+Architecture: iphoneos-arm
+Version: 0.3-2
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./Deb/AnhDuy.youtubepatcher_0.3-2_iphoneos-arm.deb
+Size: 5178
+MD5sum: 07b041fe0c8d36c44498d976dc891836
+SHA1: 92798fd785e78fc79804d69fd4452baab05b7caa
+SHA256: e299cebd1ac747f07e6fd98d3a7c8d604254b0470feed00865fd81e32baaf6c7
+SHA512: 140eb06f16104f07471f1051b5fc71233005361020948ba311f260472c66810fe54c9fa1eb440cca8e698533222d43fc81456f6c7d324e85137a26dd1308230b
+Description: Không quảng cáo & Phát lại trong nền cho YouTube
+Name: YouTubePatcher
+Author: ichitaso
+Depiction: http://cydiavn.github.io/info/youtubepatcher/?p=info
+SileoDepiction: http://cydiavn.github.io/info/youtubepatcher/?p=info
+
 Package: AnhDuy.zenith
 Architecture: iphoneos-arm
 Version: 1.2.6-1
