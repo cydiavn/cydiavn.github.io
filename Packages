@@ -4368,6 +4368,26 @@ Author: Azozz ALFiras
 Depiction: http://cydiavn.github.io/info/azflibrary/?p=info
 SileoDepiction: http://cydiavn.github.io/info/azflibrary/?p=info
 
+Package: com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm
+Version: 1.5.7-1
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 5156
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./Deb/com.creaturecoding.libcspreferences_1.5.7-1_iphoneos-arm.deb
+Size: 1660460
+MD5sum: 10063aa3ddf50cb2fd80a99a7fce3ce1
+SHA1: 14c7612ac852ed4cf0027e99360e80608409f726
+SHA256: 4abc45d65a7f6749bba6f151d92cd1b7662e8bd6e25957b73d6ce52a0926a737
+SHA512: df89a072c021b4ace0f8c091c517e652e7f9d7bec496d6b1f6d7c154c08c3b317299bd2d151778eb84462077ffa5f8279b347d9d62ced9a3d05a7caa632d95e3
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iOS9
+Name: libCSPreferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: http://cydiavn.github.io/info/libcspreferences/?p=info
+SileoDepiction: http://cydiavn.github.io/info/libcspreferences/?p=info
+
 Package: com.ginsu.libgscommon
 Architecture: iphoneos-arm
 Version: 1.1.3-1
