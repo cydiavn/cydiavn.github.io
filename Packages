@@ -3081,6 +3081,25 @@ SileoDepiction: http://cydiavn.github.io/info/lotus/?p=info
 Name: lotus
 Author: @XaBdooox
 
+Package: AnhDuy.lower
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 360
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./Deb/AnhDuy.lower_1.5.1_iphoneos-arm.deb
+Size: 31924
+MD5sum: 2dd1a23dbe15800de134b5ef7bd776e4
+SHA1: 8a3fd26a1504b7febce94e473922aec0d0183d4d
+SHA256: 71abd0af203bf648d1e615f7106295b07a8a7cac3ff178dd7ce3352b5c362e43
+SHA512: 401c0f002c264eaacd6ae39b1a63e336bd128864486d557cb03606e6e4a60662a37458fee5069390f8d0c9a20f401e65bba69e935b5a1c27f3541ec60e2bf268
+Description: Thay đổi chiều cao thông báo, Trình phát phương tiện.
+Name: Lower
+Author: s1ris
+Depiction: http://cydiavn.github.io/info/lower/?p=info
+SileoDepiction: http://cydiavn.github.io/info/lower/?p=info
+
 Package: AnhDuy.lynxtwo
 Architecture: iphoneos-arm
 Version: 2.3.1
