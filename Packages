@@ -3902,6 +3902,24 @@ Author: @psprrom<rromero-mosso@hotmail.com>
 Depiction: http://cydiavn.github.io/info/vintage-keyboard-pack/?p=info
 SileoDepiction: http://cydiavn.github.io/info/vintage-keyboard-pack/?p=info
 
+Package: AnhDuy.weatherCont
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.weatherCont_1.0_iphoneos-arm.deb
+Size: 39492528
+MD5sum: cd642d577af9ae28e971f76235c950e4
+SHA1: 4e8059b9c22c3606a917b350b72d9eb37d51c24e
+SHA256: 0e5b0d8ed7bb692fdb8d25dff55a3bbb0b26172a3f889032245644c9ca90c1c0
+SHA512: 4396eba4ddf584a241b3b2fb7b07944bc73ff02537c8d50516f905458530da6bbd929f078d5b188c6dba86552ff0803006e157d3e39df95e0e6ffc2c37949877
+Description: Tiện ích dành cho Xen Html.
+ - Các thiết lập tuỳ chỉnh trong cài đặt
+Name: WeatherCont
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/weatherCont/?p=info
+SileoDepiction: http://cydiavn.github.io/info/weatherCont/?p=info
+
 Package: AnhDuy.weatherlabel
 Architecture: iphoneos-arm
 Version: 0.0.4.3.14
