@@ -3407,6 +3407,25 @@ SileoDepiction: http://cydiavn.github.io/info/pancake/?p=info
 Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake/icon.png
 Author: AnthoPak <anthopakdev@gmail.com>
 
+Package: AnhDuy.panic
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Conflicts: me.renai.panic
+Filename: ./Deb/AnhDuy.panic_1.1.2_iphoneos-arm.deb
+Size: 154618
+MD5sum: 29e2e856786b5b1afc506787911581f0
+SHA1: d7dabb6163c3f1baaa06a0b4a6a323fdd2d81a5c
+SHA256: 7f646ad747d982bc948af82303275107cae71dafaa48b744f41abfb76a109a40
+SHA512: 0ba98624d7fdbb8f0cf3a8f9b6a5a605c0a7d5fbd6d2973d97be9f58b7af5b2cb6973454b68fb61ef6f1223567821109a74ba1d6b9c225f5bb04c8eaadd1229a
+Description: Các thao tác Resping & SafeMode bằng phím cứng
+Name: Panic
+Author: Aarnav Tale
+Depiction: http://cydiavn.github.io/info/panic/?p=info
+SileoDepiction: http://cydiavn.github.io/info/panic/?p=info
+
 Package: AnhDuy.peepreborn
 Architecture: iphoneos-arm
 Version: 1.1
