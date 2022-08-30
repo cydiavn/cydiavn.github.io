@@ -3464,6 +3464,25 @@ Depiction: http://cydiavn.github.io/info/perfectcalc/?p=info
 SileoDepiction: http://cydiavn.github.io/info/perfectcalc/?p=info
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: AnhDuy.picsart
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Cracks
+Maintainer: Anh Duy
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./Deb/AnhDuy.picsart_1.0_iphoneos-arm.deb
+Size: 4628
+MD5sum: 55e12a352d35de674042e95cc63347da
+SHA1: efc6fa3e4596aac3d40244bd3eba7579c5279ca6
+SHA256: 9a4fb2339de200ad278a85f93acedec57cd99d628740f6b9b5d68b705e843ab9
+SHA512: 3d5e5e2700bffba15f5ca7566891c73de70533545b32fa73017082af07685796f7a2c0919e78aed187f70139c7f4e551d5004bb55cbae7efdf920dceaec76202
+Description: Picsart Gold miễn phí
+Name: Picsart Crack
+Author: Paisseon
+Depiction: http://cydiavn.github.io/info/picsart/?p=info
+SileoDepiction: http://cydiavn.github.io/info/picsart/?p=info
+
 Package: AnhDuy.powercuff
 Architecture: iphoneos-arm
 Version: 0.1~mario.16
