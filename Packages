@@ -3467,16 +3467,16 @@ Author: MiRO <tweaks_support@miro92.com>
 Package: AnhDuy.picsart
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Cracks
+Section: Tweaks
 Maintainer: Anh Duy
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./Deb/AnhDuy.picsart_1.0_iphoneos-arm.deb
-Size: 4628
-MD5sum: 55e12a352d35de674042e95cc63347da
-SHA1: efc6fa3e4596aac3d40244bd3eba7579c5279ca6
-SHA256: 9a4fb2339de200ad278a85f93acedec57cd99d628740f6b9b5d68b705e843ab9
-SHA512: 3d5e5e2700bffba15f5ca7566891c73de70533545b32fa73017082af07685796f7a2c0919e78aed187f70139c7f4e551d5004bb55cbae7efdf920dceaec76202
+Size: 4636
+MD5sum: 8a8bb95fcfe56ec7ec0a0d84e1c6370c
+SHA1: 461f0da7a7837bd4192fd2885ff034c7bb0225aa
+SHA256: 89c729835a699ba41e4bc94ba4d849d104ed41909be9fc039ca4476625a0448d
+SHA512: a8561d5a30f55db6be11c7794de63988ac3f5dcb7168d1906e49c28a1261dd0e0bed1536ec6eafa89c73ddecfcc7043c581b37ef6f70547a4af7970afa7a48d3
 Description: Picsart Gold miễn phí
 Name: Picsart Crack
 Author: Paisseon
