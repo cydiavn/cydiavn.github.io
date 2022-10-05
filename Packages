@@ -627,6 +627,26 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/Final/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Final/?p=info
 
+Package: AnhDuy.Fonts
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 2271514
+Depends: firmware (>= 10.0)
+Filename: ./Deb/AnhDuy.Fonts_1.0_iphoneos-arm.deb
+Size: 2271658
+MD5sum: 8c3afc19d1ac29f66a50ba9aa983a2ef
+SHA1: 6e32e348b3b5f3c1fc4e9436c53159b33ab042e2
+SHA256: 9c87a5a7707dbcc5413f657697102161486261909d546899d3c63203cc92581c
+SHA512: b39c220863b0569d0f240c6b3acd45587cb5fb31fd2b1c576c7fef0f6a1c79877d86b8701f5102915d9372c48bea183321a6d30a06cec5930594511f1476e98d
+Description: phông chữ hỗ trợ các Widgets bởi Anh Duy
+Name: Widgets Fonts
+Author: Anh Duy
+dev: AD
+Depiction: http://cydiavn.github.io/info/Fonts/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Fonts/?p=info
+
 Package: AnhDuy.Gion
 Architecture: iphoneos-arm
 Version: 1.0
