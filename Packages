@@ -1289,6 +1289,28 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
 SileoDepiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
 
+Package: AnhDuy.SimpleLS2
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widgets
+Maintainer: Anh Duy
+Installed-Size: 669
+Depends: AnhDuy.Fonts
+Filename: ./Deb/AnhDuy.SimpleLS2_1.0.3_iphoneos-arm.deb
+Size: 500288
+MD5sum: fecceb5e85c97fee411bec3a750af083
+SHA1: 4060db4f9fd34bac9f9a277d4708e30cfe23a620
+SHA256: 2e00368c13d71a84935b42b3d797e52589324df094ffa6808aeab7fef43cb2a4
+SHA512: bad4f246a460961c93a4b047e2495090e2ad193d8aeed05369f299e263a28fb1e01d403f0e5dcdacc196d4778aa563856ac9555d31f2864082d4fe71369e740c
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn chính & Màn khoá
+ - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
+ + 1.0.3: cải tiến và sửa lỗi
+Name: SimpleLS2
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+
 Package: AnhDuy.SnowBoard
 Architecture: iphoneos-arm
 Version: 1.4.20~Beta4
