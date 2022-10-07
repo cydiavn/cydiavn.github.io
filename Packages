@@ -627,26 +627,6 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/Final/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Final/?p=info
 
-Package: AnhDuy.Fonts
-Architecture: iphoneos-arm
-Version: 1.0
-Section: System
-Maintainer: Anh Duy
-Installed-Size: 2271514
-Depends: firmware (>= 10.0)
-Filename: ./Deb/AnhDuy.Fonts_1.0_iphoneos-arm.deb
-Size: 2271660
-MD5sum: c56fb9db82c010f715bde48c9c3626f0
-SHA1: 0cbc8a477abebcd517511c8ea938c3051845d1e3
-SHA256: f8d961d9f2e53eae4f344a63f1b4825ecda9252da68813a940c24618a40c924f
-SHA512: 307f9f8ef3c570df155d71e31a48c295650f0790c2d50ebbc20c985cff640273bf12db407468b08f6d86caea6d5363f94702f94d3fa786c6c2890dd83c38f75c
-Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
-Name: Widgets Fonts
-Author: Anh Duy
-dev: AD
-Depiction: http://cydiavn.github.io/info/Fonts/?p=info
-SileoDepiction: http://cydiavn.github.io/info/Fonts/?p=info
-
 Package: AnhDuy.Gion
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1278,13 +1258,13 @@ Version: 1.0.3
 Section: Widgets
 Maintainer: Anh Duy
 Installed-Size: 669
-Depends: AnhDuy.Fonts
+Depends: AnhDuy.fonts
 Filename: ./Deb/AnhDuy.SimpleLS2_1.0.3_iphoneos-arm.deb
-Size: 500288
-MD5sum: fecceb5e85c97fee411bec3a750af083
-SHA1: 4060db4f9fd34bac9f9a277d4708e30cfe23a620
-SHA256: 2e00368c13d71a84935b42b3d797e52589324df094ffa6808aeab7fef43cb2a4
-SHA512: bad4f246a460961c93a4b047e2495090e2ad193d8aeed05369f299e263a28fb1e01d403f0e5dcdacc196d4778aa563856ac9555d31f2864082d4fe71369e740c
+Size: 500292
+MD5sum: b78406d8a5c0566afb41d42e998aac02
+SHA1: 15bc4203b5f92e3d4ffe7f116dfaf7ca389cd85a
+SHA256: c54d2ebf47e522909501f480a1faa877d467881abd5d3168b98c4ac1fefe1343
+SHA512: 9e2dd7fdf464e93be7a48026efa1681d51f2e15812dfe4d231dd4044517beedb15f9077dce168aa355715cfbb1973f3e5107b26276eb688c1f084a72b06a0525
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn chính & Màn khoá
  - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
@@ -2598,6 +2578,26 @@ Name: Patch Flex
 Author: Team Flex
 Depiction: http://cydiavn.github.io/info/flexpatch/?p=info
 SileoDepiction: http://cydiavn.github.io/info/flexpatch/?p=info
+
+Package: AnhDuy.fonts
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 2271514
+Depends: firmware (>= 10.0)
+Filename: ./Deb/AnhDuy.fonts_1.0.1_iphoneos-arm.deb
+Size: 2271654
+MD5sum: 80d4dbb8754f02652ba6b5cbaaf0fd91
+SHA1: 521418329fa70450b74ebe80fd80bfd9074992bd
+SHA256: d4a24dda4329280e3aa62c32e2ddfacff0bdc365d50b6a25ebe4eda911d2a1a9
+SHA512: ad2c2cbaeac8914c542b3e69750f2cdc0e2690083197158a1ae487a81507409c74f8f7fa96956843191f77b36ac7344ea5bcf96b36782f354c274a3127cd3cc8
+Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
+Name: Widgets Fonts
+Author: Anh Duy
+dev: AD
+Depiction: http://cydiavn.github.io/info/fonts/?p=info
+SileoDepiction: http://cydiavn.github.io/info/fonts/?p=info
 
 Package: AnhDuy.forecast5days
 Architecture: iphoneos-arm
