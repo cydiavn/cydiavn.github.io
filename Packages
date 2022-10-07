@@ -2587,11 +2587,11 @@ Maintainer: Anh Duy
 Installed-Size: 2271514
 Depends: firmware (>= 10.0)
 Filename: ./Deb/AnhDuy.fonts_1.0.1_iphoneos-arm.deb
-Size: 2271654
-MD5sum: 80d4dbb8754f02652ba6b5cbaaf0fd91
-SHA1: 521418329fa70450b74ebe80fd80bfd9074992bd
-SHA256: d4a24dda4329280e3aa62c32e2ddfacff0bdc365d50b6a25ebe4eda911d2a1a9
-SHA512: ad2c2cbaeac8914c542b3e69750f2cdc0e2690083197158a1ae487a81507409c74f8f7fa96956843191f77b36ac7344ea5bcf96b36782f354c274a3127cd3cc8
+Size: 2312368
+MD5sum: 142baa37e6794c255e3a3d292a277d23
+SHA1: fc7e63c756782511b49486a2e942560ecffbf7ee
+SHA256: b1af98189ff7de6a8aab0e3e119fefe5db9ecc03486e3deac8ea3ba6d38ea2eb
+SHA512: c9f7f8dece8c9e5ac7b1176e5464ed808b15dd405646d1c187f626182d67c11c6b41d54305f82c45fbd66a9dad1e804fd6851bc7a7c927d43eb7ec5423013b45
 Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
 Name: Widgets Fonts
 Author: Anh Duy
