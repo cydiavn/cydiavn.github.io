@@ -1120,6 +1120,25 @@ Author: @gearofwarsJlam
 Depiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
 SileoDepiction: http://cydiavn.github.io/info/OdysseusHTC/?p=info
 
+Package: AnhDuy.Peninsula
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.Peninsula_1.0.1_iphoneos-arm.deb
+Size: 286664
+MD5sum: b6df94d00387b815cb0eaaf95a7a237b
+SHA1: d6879ebfc602f29e280eec57c66a202b04984f07
+SHA256: 2c07fed0c5e6cd8891bc6f1659b1c6af3d39de1c0f1da1a9045d6ce57cfb724b
+SHA512: 4485d257bbcd5583d008d49bbb03b7871353b3495f39a86ae27dae0c2b9f821b7251fbaa706d77d1061bf00077bf00b74bdb719403f160a6b160c5bc6f88d59f
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & màn hình khoá.
+ - Các thiết lập tuỳ chỉnh trong cài đặt.
+Name: Peninsula Mod
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/Peninsula/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Peninsula/?p=info
+
 Package: AnhDuy.SB22NR
 Architecture: iphoneos-arm
 Version: 1.0
