@@ -1273,6 +1273,28 @@ SileoDepiction: http://cydiavn.github.io/info/Signature/?p=info
 
 Package: AnhDuy.SimpleLS2
 Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widgets
+Maintainer: Anh Duy
+Installed-Size: 669
+Depends: AnhDuy.fonts
+Filename: ./Deb/AnhDuy.SimpleLS2_1.0.2_iphoneos-arm.deb
+Size: 507170
+MD5sum: 64d78ce28b4f4b3a51962643dc8363df
+SHA1: fd65b9f3e54bf4571c333a21876b63ea97fab6eb
+SHA256: 3762cf884aefc10cf1b345e11a7c5b27aeea1501819fdfb57fcd5592868f281c
+SHA512: ecf6accc9692d27de715d3f2f828d9ed08434eb84cc3d23621e97b65cb2ed1d68563e385cb8f3dff28314e7c691fb51f0aefc4e294f54411ef7a2b2c8c316c9f
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn chính & Màn khoá
+ - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
+ + 1.0.2: phông chữ đồng hồ kiểu ios 16
+Name: SimpleLS2
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+
+Package: AnhDuy.SimpleLS2
+Architecture: iphoneos-arm
 Version: 1.0.3
 Section: Widgets
 Maintainer: Anh Duy
