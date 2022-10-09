@@ -1126,16 +1126,16 @@ Version: 1.0.1
 Section: Widgets
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.Peninsula_1.0.1_iphoneos-arm.deb
-Size: 286664
-MD5sum: b6df94d00387b815cb0eaaf95a7a237b
-SHA1: d6879ebfc602f29e280eec57c66a202b04984f07
-SHA256: 2c07fed0c5e6cd8891bc6f1659b1c6af3d39de1c0f1da1a9045d6ce57cfb724b
-SHA512: 4485d257bbcd5583d008d49bbb03b7871353b3495f39a86ae27dae0c2b9f821b7251fbaa706d77d1061bf00077bf00b74bdb719403f160a6b160c5bc6f88d59f
+Size: 286670
+MD5sum: 834a8b2d7b668b567a8c855c2a3ef3c1
+SHA1: d4f390d57f34c6a8f4b2fe0a2b27fa0590715582
+SHA256: a655b443c64159299370aaecd0d9f4e8012907079837494fe35cef49fec52f17
+SHA512: f52e16cccda8df9d44311f4f8668e6e53f5abb8c5f2dbbffb605dc4a30ffa7bfbbf97cd3a29015238ac92dfe7478a93eaf57bd6cad91f49de4f6ec198bb9eede
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính & màn hình khoá.
  - Các thiết lập tuỳ chỉnh trong cài đặt.
 Name: Peninsula Mod
-Author: Anh Duy
+Author: CodeOne88
 Depiction: http://cydiavn.github.io/info/Peninsula/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Peninsula/?p=info
 
