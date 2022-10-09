@@ -1126,11 +1126,11 @@ Version: 1.0.1
 Section: Widgets
 Maintainer: Anh Duy
 Filename: ./Deb/AnhDuy.Peninsula_1.0.1_iphoneos-arm.deb
-Size: 286670
-MD5sum: 834a8b2d7b668b567a8c855c2a3ef3c1
-SHA1: d4f390d57f34c6a8f4b2fe0a2b27fa0590715582
-SHA256: a655b443c64159299370aaecd0d9f4e8012907079837494fe35cef49fec52f17
-SHA512: f52e16cccda8df9d44311f4f8668e6e53f5abb8c5f2dbbffb605dc4a30ffa7bfbbf97cd3a29015238ac92dfe7478a93eaf57bd6cad91f49de4f6ec198bb9eede
+Size: 286680
+MD5sum: 7983b8605012dcb27a474e67dd93d4ed
+SHA1: d20b9496161ced8fad826e7b45dc700f98efb1ea
+SHA256: 83c1333495800bbe8f0561bac0d97d80ebb38cb44d1b9e886a4be703416c8c1d
+SHA512: 86b7a99cef38fce40d27d27edc4293751c40fa99dedb32ed45b6207315ecd9cf50409d7903cf061189fcd59c548c0552718e6affb722538612f37f376dfa9e80
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính & màn hình khoá.
  - Các thiết lập tuỳ chỉnh trong cài đặt.
