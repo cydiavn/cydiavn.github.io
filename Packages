@@ -1315,6 +1315,28 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
 SileoDepiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
 
+Package: AnhDuy.SimpleLS2
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Widgets
+Maintainer: Anh Duy
+Installed-Size: 669
+Depends: AnhDuy.fonts
+Filename: ./Deb/AnhDuy.SimpleLS2_1.0.4_iphoneos-arm.deb
+Size: 500490
+MD5sum: c2c5aa706b9c3d64484c7c29ae46140d
+SHA1: 0c34522a6482281f9c6acdba5a8ccbea9dab503f
+SHA256: 9fcdf1bd40678829543d8060a06c10b241a544843fdf8075ddd6a81f099eeed4
+SHA512: 85ce75a295aa205f22184ec8935b5057ab3d823d433146ede47d5a92fabebebb2cde9b9ebcec217f5806a55e9d913f6bcd38516805ff4fc68b6cd32d9cb21061
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn chính & Màn khoá
+ - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
+ + 1.0.4: thêm Tuỳ chọn phông chữ đồng hồ
+Name: SimpleLS2
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+
 Package: AnhDuy.SnowBoard
 Architecture: iphoneos-arm
 Version: 1.4.20~Beta4
@@ -2633,6 +2655,26 @@ MD5sum: 142baa37e6794c255e3a3d292a277d23
 SHA1: fc7e63c756782511b49486a2e942560ecffbf7ee
 SHA256: b1af98189ff7de6a8aab0e3e119fefe5db9ecc03486e3deac8ea3ba6d38ea2eb
 SHA512: c9f7f8dece8c9e5ac7b1176e5464ed808b15dd405646d1c187f626182d67c11c6b41d54305f82c45fbd66a9dad1e804fd6851bc7a7c927d43eb7ec5423013b45
+Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
+Name: Widgets Fonts
+Author: Anh Duy
+dev: AD
+Depiction: http://cydiavn.github.io/info/fonts/?p=info
+SileoDepiction: http://cydiavn.github.io/info/fonts/?p=info
+
+Package: AnhDuy.fonts
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 2271514
+Depends: firmware (>= 10.0)
+Filename: ./Deb/AnhDuy.fonts_1.0.2_iphoneos-arm.deb
+Size: 2628530
+MD5sum: c9f207eaa017a2fae7a58da1a5c40079
+SHA1: d35a6e632af8a7c0c2526caec39ca5e69328a340
+SHA256: a683552b86ada5f33ccb2a525961cf5e7c441ffc929441d09c15099a638cf7c6
+SHA512: 0e056cf13e4facc695acae13068d348719bec88a5fd9adee1eaa76dc9926b8f955b923b96d62537f7dca920004bdc1d770bd809240bd6c0dcdabbd1cdd9df8bb
 Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
 Name: Widgets Fonts
 Author: Anh Duy
