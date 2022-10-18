@@ -4424,6 +4424,28 @@ SileoDepiction: http://cydiavn.github.io/info/youpip/?p=info
 
 Package: AnhDuy.youpip
 Architecture: iphoneos-arm
+Version: 1.7.13
+Section: Tweaks
+Maintainer: Anh Duy <kiemphapngami@gmail.com>
+Installed-Size: 204
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.cabralcole.forceinpicture | com.ps.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./Deb/AnhDuy.youpip_1.7.13_iphoneos-arm.deb
+Size: 33910
+MD5sum: 61e827b28604f87678bdcbcec7d59fa6
+SHA1: ed5a199067677c161570a338a0e354d732c5964a
+SHA256: d5c87937524e5551afbc64f1c44379c7d00dd3533de2254713b94af52bd1c28c
+SHA512: 3749b3d452183b72a2b59d340d3aa049af10bc2057b4bcf10d026a06ad4d3e39414b285c1d1447575c25600f01932fa1385a0b9f99fe18af9e3e1a2b01441b07
+Description: Bật PiP gốc trong ứng dụng YouTube.
+Name: YouPiP
+Author: PoomSmart
+Depiction: http://cydiavn.github.io/info/youpip/?p=info
+SileoDepiction: http://cydiavn.github.io/info/youpip/?p=info
+
+Package: AnhDuy.youpip
+Architecture: iphoneos-arm
 Version: 1.7.1
 Section: Tweaks
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
