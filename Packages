@@ -1279,11 +1279,11 @@ Maintainer: Anh Duy
 Installed-Size: 669
 Depends: AnhDuy.fonts
 Filename: ./Deb/AnhDuy.SimpleLS2_1.0.2_iphoneos-arm.deb
-Size: 507170
-MD5sum: 64d78ce28b4f4b3a51962643dc8363df
-SHA1: fd65b9f3e54bf4571c333a21876b63ea97fab6eb
-SHA256: 3762cf884aefc10cf1b345e11a7c5b27aeea1501819fdfb57fcd5592868f281c
-SHA512: ecf6accc9692d27de715d3f2f828d9ed08434eb84cc3d23621e97b65cb2ed1d68563e385cb8f3dff28314e7c691fb51f0aefc4e294f54411ef7a2b2c8c316c9f
+Size: 500470
+MD5sum: edb39366c5f56396b575ea987a267f8a
+SHA1: a4783364f0f57c959ea456f950cbe84784a79b1b
+SHA256: c744f28467b30ede02c16d7e88bae3c27ede436464f47599660414b23646f96f
+SHA512: 6258b51b50f56c712272a0a510f0f0b431448915bb5ef21a8e39d7209757f5ab918f8c9f45209eaa9ada355fe11579796fe1072903dcfd991944334e17480290
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn chính & Màn khoá
  - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
@@ -1323,11 +1323,11 @@ Maintainer: Anh Duy
 Installed-Size: 669
 Depends: AnhDuy.fonts
 Filename: ./Deb/AnhDuy.SimpleLS2_1.0.4_iphoneos-arm.deb
-Size: 500490
-MD5sum: c2c5aa706b9c3d64484c7c29ae46140d
-SHA1: 0c34522a6482281f9c6acdba5a8ccbea9dab503f
-SHA256: 9fcdf1bd40678829543d8060a06c10b241a544843fdf8075ddd6a81f099eeed4
-SHA512: 85ce75a295aa205f22184ec8935b5057ab3d823d433146ede47d5a92fabebebb2cde9b9ebcec217f5806a55e9d913f6bcd38516805ff4fc68b6cd32d9cb21061
+Size: 500474
+MD5sum: 216c397c1a37e96784a8f51c80c5a9c4
+SHA1: 8426e3e23d3d056a5e9a777e015dd1dc5e3fcee4
+SHA256: 0d97a84335c0bcbf1fc0cb944c61ac4d514199ad7c66ae9bef65f445a0f36136
+SHA512: e74a23321e4427f02e46eff45db07eeb4d03dfe05fa948ec6e6ad84629b766b7e0ef61f72cb9a2907870099cdc2c7b07682f84f9ecd147167aad0b02b02bf6c6
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn chính & Màn khoá
  - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
