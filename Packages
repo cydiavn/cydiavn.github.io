@@ -328,6 +328,28 @@ SileoDepiction: http://cydiavn.github.io/info/CCModules/?p=info
 Author: jailbreak365 <jailbreak365@mail.com>
 Name: CCModules
 
+Package: AnhDuy.ClockFrame
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Installed-Size: 3.5M
+Depends: AnhDuy.fonts
+Filename: ./Deb/AnhDuy.ClockFrame_1.0_iphoneos-arm.deb
+Size: 3370916
+MD5sum: 2e7750640dd16f42743d1b396fb8d6b3
+SHA1: e6e9f14475f782769d4986ac30fa51ca1b5d5fe2
+SHA256: cfceb48056546cd92eb415d65ebcd7079298ec63b64466c38f3792823b667c4a
+SHA512: c04f99107b138a319fb799c74e0ec998dd357148b4463cb69bd04f94f40b5859f68bcee6a2cdfbb2fdded23ad8542dc7093d36fe4d188e5653ec405c344a76d4
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn chính & Màn khoá.
+ - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
+ + 1.0: phát hành lần đầu.
+Name: ClockFrame
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/ClockFrame/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ClockFrame/?p=info
+
 Package: AnhDuy.CosmicTwo
 Architecture: iphoneos-arm
 Version: 1.1
