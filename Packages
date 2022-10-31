@@ -330,6 +330,28 @@ Name: CCModules
 
 Package: AnhDuy.ClockFrame
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Anh Duy
+Installed-Size: 3.5M
+Depends: AnhDuy.fonts
+Filename: ./Deb/AnhDuy.ClockFrame_1.0.1_iphoneos-arm.deb
+Size: 3370964
+MD5sum: 2cf86010f90529245d4be6197603a72d
+SHA1: 5660d3a290ff0f094a18ee3af77927a2be1858e7
+SHA256: 62cb9904d4afa55ff223b34be15f82f9891c89eb9354e5da6462c2f9747b499e
+SHA512: c25188747519bf9a9f6ee457014d04a9bdbb01ba881b7558781a94c623a0576bbd8ea2ffb8230849c89b1cfc4657c23bab965c9a343b9337ed1235c59dba1bda
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn chính & Màn khoá.
+ - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
+ + 1.0.1: Cải tiến và sửa lỗi.
+Name: ClockFrame
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/ClockFrame/?p=info
+SileoDepiction: http://cydiavn.github.io/info/ClockFrame/?p=info
+
+Package: AnhDuy.ClockFrame
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy
@@ -1345,11 +1367,11 @@ Maintainer: Anh Duy
 Installed-Size: 669
 Depends: AnhDuy.fonts
 Filename: ./Deb/AnhDuy.SimpleLS2_1.0.4_iphoneos-arm.deb
-Size: 500472
-MD5sum: 06fd14c8e9c3828fb5e498f3d82559ca
-SHA1: 3a84af7a03b26a9ce3c70602e0bbc6942c70c16e
-SHA256: 2defd417c8213b02f9542a3ebaadd1041242795d8bd29e48d182b4a0113fba48
-SHA512: ac0730c0f8d16356e62c4a1296ff8e93e92bebcc72c941a27e30599f6a8eb8ceff315f3f14b7b219611a08613b4f601c16a5337fa41085f1b3e8772062721756
+Size: 500588
+MD5sum: 31e1ece5c56ce8e1e00ff812d3d2bfb7
+SHA1: ff723cdfc7ea0df371aaabf90b2ba2eb581a6745
+SHA256: 51f7c1c658c2584bc2034d1c8a8cc6d4289d4d3738f7d019f061f9df65dfb7f3
+SHA512: 8669737add86529feb88b07180e819b61615fa9c2b5b65a9ed5045c3c970ff406a86be1f937805b016159e865cb8fe9fda8ded2db15ba82c0ace2cf201954118
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn chính & Màn khoá
  - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
@@ -2672,11 +2694,11 @@ Maintainer: Anh Duy
 Installed-Size: 2271514
 Depends: firmware (>= 10.0)
 Filename: ./Deb/AnhDuy.fonts_1.0.1_iphoneos-arm.deb
-Size: 2312368
-MD5sum: 142baa37e6794c255e3a3d292a277d23
-SHA1: fc7e63c756782511b49486a2e942560ecffbf7ee
-SHA256: b1af98189ff7de6a8aab0e3e119fefe5db9ecc03486e3deac8ea3ba6d38ea2eb
-SHA512: c9f7f8dece8c9e5ac7b1176e5464ed808b15dd405646d1c187f626182d67c11c6b41d54305f82c45fbd66a9dad1e804fd6851bc7a7c927d43eb7ec5423013b45
+Size: 2312380
+MD5sum: 34f157a03b48f0683a7f9835a3d77ff5
+SHA1: a5b04516b495e3628a7eef75ad48c250992406e2
+SHA256: cad84ee463ea1b44b91bdf0f73763574f55507de8a4f9c081d31cab3aaa48d8b
+SHA512: d8e6404a216961d510ee0d13b8f1b8129523e2ea950474dbeaeaeadd9686f4535ed193d59fe4c18eb7b82fdc2e1ccff13d0ef13bb783e23a4a36dca0d5f31164
 Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
 Name: Widgets Fonts
 Author: Anh Duy
@@ -2692,11 +2714,11 @@ Maintainer: Anh Duy
 Installed-Size: 2271514
 Depends: firmware (>= 10.0)
 Filename: ./Deb/AnhDuy.fonts_1.0.2_iphoneos-arm.deb
-Size: 2765408
-MD5sum: 61846e5b152f8822d62623be16552129
-SHA1: a6bfe5f2232c36757dbe27f8d40388460a2a6b6d
-SHA256: 70150bc376b6fe3f917ecf9a8130a94e2dee24da2c15766a763b1ffcc24f7911
-SHA512: d0bccf9f6313c89ea866bb8f3e4edaef7c719e14efe436ab0992a05da559581b500b5cbd470ef89198c08ce19e497ced9d445f171288839fd12bcfb91a837005
+Size: 2912446
+MD5sum: b9f27e291f07f7fbdee57823520c1f04
+SHA1: 30ee95b88afc6aa9dea051357217b53b7ee1d7bd
+SHA256: c3faafad7928c5548b2d9c9092a6a4e65eb8266fbdaa352e07056e94ac059ff6
+SHA512: ad5469d19319984179bc4f9dbdd04f87c45b130318a8d88dfc0c1bb2d000b25037c6dbd692f7359f220b1ca644bd888566eb5b075e49574625c1814834e67b0d
 Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
 Name: Widgets Fonts
 Author: Anh Duy
