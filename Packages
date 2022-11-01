@@ -5099,6 +5099,27 @@ Depiction: http://cydiavn.github.io/info/sareth/?p=info
 SileoDepiction: http://cydiavn.github.io/info/sareth/?p=info
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 
+Package: com.junesiphone.lockpluspro
+Architecture: iphoneos-arm
+Version: 2.4.5-1
+Section: Addons (Tweaks)
+Maintainer: Anh Duy
+Installed-Size: 56756
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.d11z.textyle, jp.akusio.milkyway, jp.akusio.milkyway2, com.yourepo.appleenterprise.nopassafterrespring
+Filename: ./Deb/com.junesiphone.lockpluspro_2.4.5-1_iphoneos-arm.deb
+Size: 22843816
+MD5sum: 96ee3183a598bd3ec5431049622d2534
+SHA1: fb2315c660118b3054740f1189b90692ba404cf9
+SHA256: cd24c191ad90687f232edb63f78d5e44fb839e7cd79595350e14cf40edd1c28e
+SHA512: d08a7cdd8f4650c1e41eb7b47ab8397a89862b2edcb9e05fdcb20b6859bc5b0c9c3fd5634e22d5586f5ab53c277859ccb8d0ae3068f0602aee32db3a1ce6690f
+Description: Tinh chỉnh màn hình khóa cuối cùng!
+Tag: cydia::paid
+Name: LockPlus Pro
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://cydiavn.github.io/info/lockpluspro/?p=info
+SileoDepiction: http://cydiavn.github.io/info/lockpluspro/?p=info
+
 Package: com.laughingquoll.prefixui
 Architecture: iphoneos-arm
 Version: 1.3.1
