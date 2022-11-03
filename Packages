@@ -1219,6 +1219,25 @@ SileoDepiction: http://cydiavn.github.io/info/SB29NR/?p=info
 
 Package: AnhDuy.SBEW48Mod
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.SBEW48Mod_1.0.1_iphoneos-arm.deb
+Size: 473876
+MD5sum: 80c778e2adde182c54f5b072bbd4f611
+SHA1: 0798b096879591c9437c955ef498f559ae9d380c
+SHA256: 748738950da284635fccbaa61a66a2e351525512547041ae328b35f6423dd636
+SHA512: ac5fd484263e6e7c41de86d8a48348fc03fa02e6b6b0c8f44b72921a0ecaa4b922635f6b1b81a7490d1bd56b33bea4eb4bb7e35c0da59ebb2c54fc757a462265
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn chính và màn khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt
+Name: SB EW48 Mod
+Author: Evelyn + AnhDuy
+Depiction: http://cydiavn.github.io/info/SBEW48Mod/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SBEW48Mod/?p=info
+
+Package: AnhDuy.SBEW48Mod
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy
