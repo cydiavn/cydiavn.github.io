@@ -2842,6 +2842,26 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/frameSB/?p=info
 SileoDepiction: http://cydiavn.github.io/info/frameSB/?p=info
 
+Package: AnhDuy.glow
+Architecture: iphoneos-arm
+Version: 0.5-4
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 956
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12), org.mr.unsubs
+Filename: ./Deb/AnhDuy.glow_0.5-4_iphoneos-arm.deb
+Size: 337016
+MD5sum: 6125052005a2eb082d0ee4bad99c766e
+SHA1: 7fee3a285483713304d09115f41db38636ac1272
+SHA256: 8d8b4434767211d8016543e5236c31c15cee3143852ce0550e876d7f182aab8f
+SHA512: d2200e97fa94a213037b06832d217df54576017624857d0945aed6300182b709abcbb2f135d08158b5e29dd6c4f519fe0b9142f62e76b452a797d8dcce207798
+Description: Hãy để màn hình khóa của bạn phát sáng!
+Name: Glow
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://cydiavn.github.io/info/glow/?p=info
+SileoDepiction: http://cydiavn.github.io/info/glow/?p=info
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.glow/icon.png?fe=429
+
 Package: AnhDuy.gradi
 Architecture: iphoneos-arm
 Version: 2.1.2
