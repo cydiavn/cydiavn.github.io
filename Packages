@@ -858,6 +858,28 @@ Author: Edit by AnhDuy
 Depiction: http://cydiavn.github.io/info/L78/?p=info
 SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
 
+Package: AnhDuy.LSW3mod
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: Anh Duy
+Installed-Size: 285
+Depends: AnhDuy.fonts
+Filename: ./Deb/AnhDuy.LSW3mod_1.0_iphoneos-arm.deb
+Size: 284996
+MD5sum: aee4a8162506f8b153a8104497476fe1
+SHA1: b093cbc87bfdebf4739d2de25a4d6b0eacd55396
+SHA256: 727847d16dbb4e714538a89f86d45db28ac799380cff7c8f0a1de524fbb07180
+SHA512: 1114bcd229cb762d5cdeca79e8e067904f30f7b49b4762f736607ddb94523e8e9fa98bf2b7edbbcfebf4851f79bc43a99b5b3b1b146eca2ca606d4e2ec3f7ae4
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn chính & Màn khoá
+ - Nội dung hiển thị: Đồng hồ, lịch dương, âm nhạc, thời tiết.
+ + 1.0: Lần đầu phát hành.
+Name: LSW-3 mod
+Author: codeone88
+Depiction: http://cydiavn.github.io/info/LSW3mod/?p=info
+SileoDepiction: http://cydiavn.github.io/info/LSW3mod/?p=info
+
 Package: AnhDuy.LStet12pm
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -1386,11 +1408,11 @@ Maintainer: Anh Duy
 Installed-Size: 669
 Depends: AnhDuy.fonts
 Filename: ./Deb/AnhDuy.SimpleLS2_1.0.4_iphoneos-arm.deb
-Size: 500588
-MD5sum: 31e1ece5c56ce8e1e00ff812d3d2bfb7
-SHA1: ff723cdfc7ea0df371aaabf90b2ba2eb581a6745
-SHA256: 51f7c1c658c2584bc2034d1c8a8cc6d4289d4d3738f7d019f061f9df65dfb7f3
-SHA512: 8669737add86529feb88b07180e819b61615fa9c2b5b65a9ed5045c3c970ff406a86be1f937805b016159e865cb8fe9fda8ded2db15ba82c0ace2cf201954118
+Size: 500548
+MD5sum: bc9821e515131033200aea7768ee173d
+SHA1: bbec1b6964c11e808d7407ebf1c013460a8bd09a
+SHA256: a6e5fdfdaa10d7c93b915f40d28d1b87d15c3dbc146ac56af16fa0c4b0e72ce1
+SHA512: 88deb0927f78a5f5bbc21838654c673b660d5e58ba6041df6da4aec821314f167fc60e56cae3a3b4631e5823183d9b7f1f4726a209db69895712f1de743ac441
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn chính & Màn khoá
  - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
@@ -2733,11 +2755,11 @@ Maintainer: Anh Duy
 Installed-Size: 2271514
 Depends: firmware (>= 10.0)
 Filename: ./Deb/AnhDuy.fonts_1.0.2_iphoneos-arm.deb
-Size: 2912446
-MD5sum: b9f27e291f07f7fbdee57823520c1f04
-SHA1: 30ee95b88afc6aa9dea051357217b53b7ee1d7bd
-SHA256: c3faafad7928c5548b2d9c9092a6a4e65eb8266fbdaa352e07056e94ac059ff6
-SHA512: ad5469d19319984179bc4f9dbdd04f87c45b130318a8d88dfc0c1bb2d000b25037c6dbd692f7359f220b1ca644bd888566eb5b075e49574625c1814834e67b0d
+Size: 2952178
+MD5sum: 05ff4a4d9597cf91fcbbf3c090231643
+SHA1: 4e1c16b5aeed16b33eda8d66df9d4e05a5ce9e9f
+SHA256: 5c32a37a7b615720152b659031139644df20d3519d50f72ad0095e1393a11f89
+SHA512: b9629d4f67f992ba380726ce09f64e30e57b60f5d27192d3cdc541a0e04cf6d6cfefc3b299b64661270eafb0658802d2fd356588bf2d9bf97e3494286ead37df
 Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
 Name: Widgets Fonts
 Author: Anh Duy
