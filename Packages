@@ -860,6 +860,28 @@ SileoDepiction: http://cydiavn.github.io/info/L78/?p=info
 
 Package: AnhDuy.LSW3mod
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widgets
+Maintainer: Anh Duy
+Installed-Size: 285
+Depends: AnhDuy.fonts
+Filename: ./Deb/AnhDuy.LSW3mod_1.0.1_iphoneos-arm.deb
+Size: 285010
+MD5sum: d74bb30487a739d4ec28eb65e191edd4
+SHA1: e467b73f9e09794c2e7f7ab140a1a878a42a4a52
+SHA256: d5431559760fcc4f92bc3edc1cd66483febe2564c39156cf7d161d05d119719b
+SHA512: 8f39100624b00dc52a1710b0b50e36adf8cbf4b98b16375b5ecbab68f6f87cb36950493d157466b72b74d2681603a139f8522ea15d76aa19f4015f797b53657c
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn chính & Màn khoá.
+ - Nội dung hiển thị: Đồng hồ, lịch dương, âm nhạc, thời tiết.
+ + 1.0.1: Cải tiến và sửa lỗi.
+Name: LSW-3 mod
+Author: codeone88
+Depiction: http://cydiavn.github.io/info/LSW3mod/?p=info
+SileoDepiction: http://cydiavn.github.io/info/LSW3mod/?p=info
+
+Package: AnhDuy.LSW3mod
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Widgets
 Maintainer: Anh Duy
