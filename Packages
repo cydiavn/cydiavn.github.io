@@ -866,11 +866,11 @@ Maintainer: Anh Duy
 Installed-Size: 285
 Depends: AnhDuy.fonts
 Filename: ./Deb/AnhDuy.LSW3mod_1.0.1_iphoneos-arm.deb
-Size: 285010
-MD5sum: d74bb30487a739d4ec28eb65e191edd4
-SHA1: e467b73f9e09794c2e7f7ab140a1a878a42a4a52
-SHA256: d5431559760fcc4f92bc3edc1cd66483febe2564c39156cf7d161d05d119719b
-SHA512: 8f39100624b00dc52a1710b0b50e36adf8cbf4b98b16375b5ecbab68f6f87cb36950493d157466b72b74d2681603a139f8522ea15d76aa19f4015f797b53657c
+Size: 285030
+MD5sum: 41569f26876e28388c8b9b54fa5998c9
+SHA1: 01a47da17874f0269f3fb307edca0feed7e1796a
+SHA256: 0e7d15572197a680e07e411176a94957e880204edc623042c4fd2761e07b4555
+SHA512: e7a5544e8df86149ddbfa20bd43fc6d73aedaefbf54c7d9531400ee3df26d4a763f0d76e046e5568df2ce4eadb119c46f02fc9929b52c13f78011f98186d9a40
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn chính & Màn khoá.
  - Nội dung hiển thị: Đồng hồ, lịch dương, âm nhạc, thời tiết.
@@ -2777,11 +2777,11 @@ Maintainer: Anh Duy
 Installed-Size: 2271514
 Depends: firmware (>= 10.0)
 Filename: ./Deb/AnhDuy.fonts_1.0.2_iphoneos-arm.deb
-Size: 2952178
-MD5sum: 05ff4a4d9597cf91fcbbf3c090231643
-SHA1: 4e1c16b5aeed16b33eda8d66df9d4e05a5ce9e9f
-SHA256: 5c32a37a7b615720152b659031139644df20d3519d50f72ad0095e1393a11f89
-SHA512: b9629d4f67f992ba380726ce09f64e30e57b60f5d27192d3cdc541a0e04cf6d6cfefc3b299b64661270eafb0658802d2fd356588bf2d9bf97e3494286ead37df
+Size: 2991916
+MD5sum: f05b9d4787393b5c0255e9b114610248
+SHA1: 7e8f6f6721e224bfffcfeaa0972cc3b9d5cc4ddf
+SHA256: ff0853df0b7da0383a24a3835d43cf7ce3d0dbae36b4025d5029c050e034aa6e
+SHA512: 3f570e765b1fbb9444859a9f762acf156e7202f7e9edceaed448516c665bb65ea46dcf84b9c16f8a43219938caf248c413eefd1d3e1a1a8efbbc19707eb1d376
 Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
 Name: Widgets Fonts
 Author: Anh Duy
