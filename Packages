@@ -867,10 +867,10 @@ Installed-Size: 285
 Depends: AnhDuy.fonts
 Filename: ./Deb/AnhDuy.LSW3mod_1.0.1_iphoneos-arm.deb
 Size: 285030
-MD5sum: 41569f26876e28388c8b9b54fa5998c9
-SHA1: 01a47da17874f0269f3fb307edca0feed7e1796a
-SHA256: 0e7d15572197a680e07e411176a94957e880204edc623042c4fd2761e07b4555
-SHA512: e7a5544e8df86149ddbfa20bd43fc6d73aedaefbf54c7d9531400ee3df26d4a763f0d76e046e5568df2ce4eadb119c46f02fc9929b52c13f78011f98186d9a40
+MD5sum: 7cd6678f1ac7ad2c265005fd234bc922
+SHA1: f245b34e4c6a78ff79182181a2f74a014055dee9
+SHA256: 651619ed320c0fcc48dbad808c96d18b007c6fb0c4124fe67acc78a77bb02690
+SHA512: 32cec9e84b28af87674e247343df12868e57c585f27dfd35f197688570beb1e76be6fc82b32d12664cd8532120040e87d05d1170ca7d362e93ea2849a5cfe6f6
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn chính & Màn khoá.
  - Nội dung hiển thị: Đồng hồ, lịch dương, âm nhạc, thời tiết.
