@@ -5534,6 +5534,26 @@ Author: jjolano
 Depiction: http://cydiavn.github.io/info/shadow/?p=info
 SileoDepiction: http://cydiavn.github.io/info/shadow/?p=info
 
+Package: me.jjolano.shadow
+Architecture: iphoneos-arm
+Version: 3.0-6
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 760
+Depends: firmware (>= 7.0), mobilesubstrate, dpkg, com.opa334.altlist, ws.hbang.common
+Recommends: com.rpetrich.rocketbootstrap
+Filename: ./Deb/me.jjolano.shadow_3.0-6_iphoneos-arm.deb
+Size: 182728
+MD5sum: 42feec8e764d1deb503539e76b710062
+SHA1: 2861e24c3555d37dc5402ce2b0e60f98dd72b21a
+SHA256: b1b92a2f2adf30ee9eecd4c89a4e073cee90e42a726da93bdd3eb8575d6baab7
+SHA512: db774842bd641db76b90f0f65ca4eee8c2b1193e80b024bb06ff0d3a94ee45122bac7002250f0e3ff9ddfba0833f42205a2920b747085ac3858f372ce2d71663
+Description: Bỏ qua phát hiện jailbreak hiện đại cho iOS đã jailbreak.
+Name: Shadow
+Author: jjolano
+Depiction: http://cydiavn.github.io/info/shadow/?p=info
+SileoDepiction: http://cydiavn.github.io/info/shadow/?p=info
+
 Package: org.mr.libiarrays
 Architecture: iphoneos-arm
 Version: 1.0.15-beta-10
