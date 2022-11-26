@@ -5414,6 +5414,28 @@ Depiction: http://cydiavn.github.io/info/ccsupport/?p=info
 SileoDepiction: http://cydiavn.github.io/info/ccsupport/?p=info
 dev: opa334
 
+Package: com.opa334.libsandy
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 576
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./Deb/com.opa334.libsandy_1.0.2_iphoneos-arm.deb
+Size: 51358
+MD5sum: fcd5978a5e4c6d39ea7bae9b1f6525ff
+SHA1: 5c1777854fd3723721ba8528631a31e79d98b5c6
+SHA256: 8529799eecfca507c2137fc74cd5eb340a7e3470223c4d7a084f079517b9d995
+SHA512: 60ac25eb423ed15b82e446185fbfe8a7e78672ef759909b115398a3bdc01bd5d1e1a97e95d2ca3844d042cf7a97d3523e02b4153160a52c003de5be84fa6d59a
+Description: Mở rộng an toàn sandbox của các quy trình hệ thống và ứng dụng người dùng
+Tag: purpose::extension, role::developer
+Author: opa334 <opa334@protonmail.com>
+Name: libSandy
+Depiction: http://cydiavn.github.io/info/libsandy/?p=info
+SileoDepiction: http://cydiavn.github.io/info/libsandy/?p=info
+dev: opa334
+
 Package: com.peterdev.libpddokdo
 Architecture: iphoneos-arm
 Version: 1.3
@@ -5559,19 +5581,19 @@ SileoDepiction: https://cydiavn.github.io/Debinfo/reprovision/?p=info
 
 Package: me.jjolano.shadow
 Architecture: iphoneos-arm
-Version: 3.3-beta.1-2+debug
+Version: 3.3.1
 Section: System
 Maintainer: Anh Duy
 Installed-Size: 760
 Depends: firmware (>= 7.0), mobilesubstrate, dpkg, com.opa334.altlist, ws.hbang.common
 Recommends: com.rpetrich.rocketbootstrap
-Filename: ./Deb/me.jjolano.shadow_3.3-beta.1-2+debug_iphoneos-arm.deb
-Size: 273432
-MD5sum: ba192f37103c9f6882b3d9abe55fb068
-SHA1: 1f8c6f99f738c1282418ed63955fd14dd4fa3995
-SHA256: 33f502cc3548dfb153d17a08c80e24dfbf1c44090b16ddc223d7ed7ddb92cab9
-SHA512: d096279503e85ca87dce97a8054ffc7edde5545e6de214929b201007e506fc185e2045d2069983a0fb4b524d113296199c3236da6d0ae4e2b5983cdf353e3ac0
-Description: Bỏ qua phát hiện jailbreak hiện đại cho iOS đã jailbreak.
+Filename: ./Deb/me.jjolano.shadow_3.3.1_iphoneos-arm.deb
+Size: 254042
+MD5sum: 781f6f8defdddba8516a5388318c67d2
+SHA1: 82685e150178efc030436a4d17600e86478ba8b5
+SHA256: 4780ce1a1afad3856effb735610475474c5cd96c3ccc0c0409cc4fb4c13d6833
+SHA512: f5fd8d250eaf3027aa0b7bc78dda8bbb33f7a65b506fe22e552ef4d3643cd6627dd28499ccf46679f9ba27f25ef38d4c0af98d8ce45b3614c156f94706aff071
+Description: Bỏ qua phát hiện jailbreak.
 Name: Shadow
 Author: jjolano
 Depiction: http://cydiavn.github.io/info/shadow/?p=info
