@@ -5581,19 +5581,18 @@ SileoDepiction: https://cydiavn.github.io/Debinfo/reprovision/?p=info
 
 Package: me.jjolano.shadow
 Architecture: iphoneos-arm
-Version: 3.3.1
+Version: 3.3.1-1
 Section: System
 Maintainer: Anh Duy
-Installed-Size: 760
-Depends: firmware (>= 7.0), mobilesubstrate, dpkg, com.opa334.altlist, ws.hbang.common
-Recommends: com.rpetrich.rocketbootstrap
-Filename: ./Deb/me.jjolano.shadow_3.3.1_iphoneos-arm.deb
-Size: 254042
-MD5sum: 781f6f8defdddba8516a5388318c67d2
-SHA1: 82685e150178efc030436a4d17600e86478ba8b5
-SHA256: 4780ce1a1afad3856effb735610475474c5cd96c3ccc0c0409cc4fb4c13d6833
-SHA512: f5fd8d250eaf3027aa0b7bc78dda8bbb33f7a65b506fe22e552ef4d3643cd6627dd28499ccf46679f9ba27f25ef38d4c0af98d8ce45b3614c156f94706aff071
-Description: Bỏ qua phát hiện jailbreak.
+Installed-Size: 940
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, dpkg, com.opa334.altlist, com.opa334.libsandy, firmware (>= 11.0) | ws.hbang.common
+Filename: ./Deb/me.jjolano.shadow_3.3.1-1_iphoneos-arm.deb
+Size: 254050
+MD5sum: f09a49b7e2be4bc8533a7123e0424e0a
+SHA1: acd55726ca16343dd5290c9493e6859931c55322
+SHA256: 46fd4f6bcf2002ada52e2ea95437864c3eb27c3267ee111dc368f4e1f2728321
+SHA512: 979049d8a10202bc66ead01cc099940b74ddd10778a67898ff9c429bc81ae9c5ebc0dd14aa4bccf16f972b926cca439a2daac6b25a291e43f38ef1a0dd4c857a
+Description: Bỏ qua phát hiện Jailbreak.
 Name: Shadow
 Author: jjolano
 Depiction: http://cydiavn.github.io/info/shadow/?p=info
