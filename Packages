@@ -1444,6 +1444,28 @@ Author: Anh Duy
 Depiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
 SileoDepiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
 
+Package: AnhDuy.SimpleLS2
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Widgets
+Maintainer: Anh Duy
+Installed-Size: 669
+Depends: AnhDuy.fonts
+Filename: ./Deb/AnhDuy.SimpleLS2_1.0.5_iphoneos-arm.deb
+Size: 500560
+MD5sum: 2b135d1b684542ed15bc8de1df6aa119
+SHA1: 36f49144a36c600df34cd7dd8cd31d72e73dd8fe
+SHA256: def43af2548ef646fa2c785b723c0a723bfcce114885afb16e15e843456d87a6
+SHA512: 273cf5e7daad3a703aeec8c82fb6822dcf8032808f4bd1a0cbb189b0ddd3c40a538a872e879b0ed76db5f479eed13098da5f2a2855be6574e9851e4a848d7404
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn chính & Màn khoá
+ - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết.
+ + 1.0.4: thêm Tuỳ chọn phông chữ đồng hồ
+Name: SimpleLS2
+Author: Anh Duy
+Depiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+
 Package: AnhDuy.SnowBoard
 Architecture: iphoneos-arm
 Version: 1.4.20~Beta4
@@ -1803,6 +1825,25 @@ Name: AFSound
 Author: Azozz ALFiras
 Depiction: http://cydiavn.github.io/info/afsound/?p=info
 SileoDepiction: http://cydiavn.github.io/info/afsound/?p=info
+
+Package: AnhDuy.aim
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, com.rpgfarm.groupingaxon, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.peterdev.grupi
+Filename: ./Deb/AnhDuy.aim_1.4.1_iphoneos-arm.deb
+Size: 2206136
+MD5sum: 566f165d963cc96c87210fbf31ee7f5f
+SHA1: fc2ceef07e7c8c4d0760c056a114a59977c34b8b
+SHA256: c862855b8e7b28643f55adb4793172844f22fae4b2a6b6e8a4525c0769fc3d27
+SHA512: 44d4237fa61dc2638b07bdddcc575ebe47ad7b1d4f5fe0f9364f92dd56f1f293b445967711354170f073792976c9d10191bad6bfee3babf82bbadb475301821a
+Description: Màn hình khoá kiểu iOS 16
+Name: AIM
+Author: alimaulana
+Depiction: http://cydiavn.github.io/info/aim/?p=info
+SileoDepiction: http://cydiavn.github.io/info/aim/?p=info
 
 Package: AnhDuy.animations
 Architecture: iphoneos-arm
@@ -2782,6 +2823,26 @@ MD5sum: f05b9d4787393b5c0255e9b114610248
 SHA1: 7e8f6f6721e224bfffcfeaa0972cc3b9d5cc4ddf
 SHA256: ff0853df0b7da0383a24a3835d43cf7ce3d0dbae36b4025d5029c050e034aa6e
 SHA512: 3f570e765b1fbb9444859a9f762acf156e7202f7e9edceaed448516c665bb65ea46dcf84b9c16f8a43219938caf248c413eefd1d3e1a1a8efbbc19707eb1d376
+Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
+Name: Widgets Fonts
+Author: Anh Duy
+dev: AD
+Depiction: http://cydiavn.github.io/info/fonts/?p=info
+SileoDepiction: http://cydiavn.github.io/info/fonts/?p=info
+
+Package: AnhDuy.fonts
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 2271514
+Depends: firmware (>= 10.0)
+Filename: ./Deb/AnhDuy.fonts_1.0.3_iphoneos-arm.deb
+Size: 3413180
+MD5sum: e63191931f6ca25286e605aea875121e
+SHA1: 4acbd18c1d9a6c28518ab7f06ec2c916b0f86d0e
+SHA256: b6359f87cddc12680a10bf4b4c09ded0aaee055031d47b34a76aecb3be550978
+SHA512: ee1386daddd92a38a1dd40124229faa4f2170628c535bc7ddf440dd22cfa1a09055e9d5beb693b29c367af721c7e44f9fb8b605c51b18f3b351cc37049f2dd96
 Description: phông chữ hỗ trợ các tiện ích bởi Anh Duy
 Name: Widgets Fonts
 Author: Anh Duy
@@ -5453,6 +5514,25 @@ Name: libPDDokdo
 Depiction: http://cydiavn.github.io/info/libpddokdo/?p=info
 SileoDepiction: http://cydiavn.github.io/info/libpddokdo/?p=info
 Author: Soongyu Kwon
+
+Package: com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: System
+Maintainer: Anh Duy
+Depends:
+Filename: ./Deb/com.spark.libsparkcolourpicker_1.0.2_iphoneos-arm.deb
+Size: 124938
+MD5sum: 6fe6d4ec4abe0d02f6dbfb7c553beeb9
+SHA1: 233f7a88f6ff4c39d4e51b5720b654450f211e2e
+SHA256: 6af376c6af360f2bff5a658581726f97d108b98fd0a9bac3c2e73812fb07c55b
+SHA512: 16b148fab9ba0a9e16c9883279361a19f6c68841f3797e895820a9482ddc8141d18a4e68931a8b445abbe2b2629d8321db0df9bd543147e09ceef4ef9386f15a
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Tag: role::developer
+Name: libsparkcolourpicker
+Author: Spark
+Depiction: http://cydiavn.github.io/info/libsparkcolourpicker/?p=info
+SileoDepiction: http://cydiavn.github.io/info/libsparkcolourpicker/?p=info
 
 Package: com.sugiuta.libkuromi
 Architecture: iphoneos-arm
