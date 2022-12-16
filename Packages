@@ -1883,6 +1883,25 @@ Author: alimaulana
 Depiction: http://cydiavn.github.io/info/aim/?p=info
 SileoDepiction: http://cydiavn.github.io/info/aim/?p=info
 
+Package: AnhDuy.aim
+Architecture: iphoneos-arm
+Version: 2.3.1
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, com.rpgfarm.groupingaxon, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.peterdev.grupi
+Filename: ./Deb/AnhDuy.aim_2.3.1_iphoneos-arm.deb
+Size: 2271232
+MD5sum: 791df9f2e501980b9a61514ca4a25fe0
+SHA1: 23e268495b9c4abb43942a65b7c60ec23eac1f09
+SHA256: 97797ccda12802674b7c67f37e4efcf9fb7c4ab57ef2b4f6f90ce69e7436ecf7
+SHA512: 3e5756d6dde8dde2dc93ad57d685f7c90bae75cb00e9c3ee8b3322d580fb9f1c3aa3992b710d790540b0415ee979be0802346504196c34334a11351ffbff2075
+Description: Màn hình khoá kiểu iOS 16
+Name: AIM
+Author: alimaulana
+Depiction: http://cydiavn.github.io/info/aim/?p=info
+SileoDepiction: http://cydiavn.github.io/info/aim/?p=info
+
 Package: AnhDuy.animations
 Architecture: iphoneos-arm
 Version: 1.0
