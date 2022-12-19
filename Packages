@@ -4307,6 +4307,26 @@ Author: SynnyG <synnyg.devjb@gmail.com>
 Depiction: http://cydiavn.github.io/info/springsounds/?p=info
 SileoDepiction: http://cydiavn.github.io/info/springsounds/?p=info
 
+Package: AnhDuy.stella
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
+Filename: ./Deb/AnhDuy.stella_1.0.2_iphoneos-arm.deb
+Size: 684270
+MD5sum: 4513e6ce024603d3fee02f739e6e77c6
+SHA1: 49883f9ab9449bd899a3021c5f269851a1e34db6
+SHA256: cb9a4881832e7f0f7da5527d36a36ad1ea4947601ac0bb67118b30e2a3359d9d
+SHA512: aa8c43130a4b16030d3187e037a131975a294ad04df27c887603f10a09c0958409282d4b969422714319b9bb9b27b481e09a09ab59b2f82a2243b27fcdc82113
+Description: Hãy để tuyết rơi trên thiết bị của bạn.
+Name: Stella
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/stella/icon.png
+Depiction: http://cydiavn.github.io/info/stella/?p=info
+SileoDepiction: http://cydiavn.github.io/info/stella/?p=info
+
 Package: AnhDuy.swipeselection
 Architecture: iphoneos-arm
 Version: 1.0~beta9
