@@ -1828,19 +1828,19 @@ SileoDepiction: http://cydiavn.github.io/info/afsound/?p=info
 
 Package: AnhDuy.aim
 Architecture: iphoneos-arm
-Version: 1.2
+Version: 1.2.2
 Section: Tweaks
 Maintainer: Anh Duy
-Installed-Size: 4484
+Installed-Size: 4788
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary
-Filename: ./Deb/AnhDuy.aim_1.2_iphoneos-arm.deb
-Size: 2456290
-MD5sum: 912bd3f273aa5d8aa4680a492c60842c
-SHA1: b8f2263c3f9cd1714deeab58e287bee87f157309
-SHA256: 1631c7dee8a2470289d460855a212d78f6f5b7cf76cb19830b82be97ce127f68
-SHA512: 62c09ecb2cd4bca3f80be23be38550902b67eb1878d51f0219403e358680b738730ef4eb4dc679b010cd6974da91a02c9b6eb853099fbe6d9c007a0323f51bb0
-Description: màn hình khoá kiểu ios 16
+Filename: ./Deb/AnhDuy.aim_1.2.2_iphoneos-arm.deb
+Size: 2601160
+MD5sum: 106201a4cfa53bc736377733d8f3eca6
+SHA1: 82586e2d5c8c736090bdd4edc90d8a14a27a1ef3
+SHA256: de9d665e896b1aa15c6dcbb438335da0c08aceafb2d1cba41856d9e514d574d3
+SHA512: 8dd364e0b696a75be8bb69a1618c3af37043537a84ff5395633832d43d33a9de85de7b631e6f150da079177ef332b336ec741bdd65f8c9332edb35afb53b748d
+Description: Màn hình khóa thời gian và ngày kiểu iOS 16
 Name: AIM
 Author: alimaulana
 Depiction: http://cydiavn.github.io/info/aim/?p=info
