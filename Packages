@@ -1227,6 +1227,23 @@ Author: CodeOne88
 Depiction: http://cydiavn.github.io/info/Peninsula/?p=info
 SileoDepiction: http://cydiavn.github.io/info/Peninsula/?p=info
 
+Package: AnhDuy.RedYellow
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Anh Duy
+Filename: ./Deb/AnhDuy.RedYellow_1.0_iphoneos-arm.deb
+Size: 33009698
+MD5sum: d1a731880d2cfff7c1d61ed01905e29a
+SHA1: a9868bc69fed7e90be2244ab6735f34229c4d9e5
+SHA256: 55312aeb298c8bc1904273890fea0a5da5cdd7e00a02c3ee80ec476cdc84ebfa
+SHA512: 517a382b18c6925f3e03af7bfbdb964ac94815fcb0090b0ea7e168f37480095bbc24c996ceb72e946f56928f54dd91f55a7b72b2ad02615181d7ae865bafbd43
+Description: Chủ đề Red Yellow cho IOS8 - IOS14.x
+Depiction: http://cydiavn.github.io/info/RedYellow/?p=info
+SileoDepiction: http://cydiavn.github.io/info/RedYellow/?p=info
+Name: Red Yellow
+Author: Gomo Thegom
+
 Package: AnhDuy.SB22NR
 Architecture: iphoneos-arm
 Version: 1.0
