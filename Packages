@@ -902,120 +902,18 @@ Author: codeone88
 Depiction: http://cydiavn.github.io/info/LSW3mod/?p=info
 SileoDepiction: http://cydiavn.github.io/info/LSW3mod/?p=info
 
-Package: AnhDuy.LStet12pm
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Widgets
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.LStet12pm_1.0.1_iphoneos-arm.deb
-Size: 28185050
-MD5sum: 5e10f5f0c38b34f9f2cbef0fd7f9538c
-SHA1: 29177aad80b261d9fa969e7df91978db495eba64
-SHA256: 93ed612a029ac277c7ed99a95bfe9ccde5ed5404dab8e4463c24a97794928606
-SHA512: f7a2d845c45b10a9ff269f5d2a15637e777bfbda531bce8202b6ec7852ad20c50bcef36b40b7ed35c12eb2d31d17a993136d79c969e8fc389a9f49bf2337c33f
-Description: Tiện ích cho Xen Html
-Name: LS tết 12pm
-Author: AnhDuy & vothimynhu
-Depiction: http://cydiavn.github.io/info/LStet12pm/?p=info
-SileoDepiction: http://cydiavn.github.io/info/LStet12pm/?p=info
-
-Package: AnhDuy.LStet12pm
-Architecture: iphoneos-arm
-Version: 1.0.2-1
-Section: Widgets
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.LStet12pm_1.0.2-1_iphoneos-arm.deb
-Size: 28312594
-MD5sum: 4677fb82811314c7521868ef9448f80e
-SHA1: 78a03aa114750e7e8639ce3c0a161d785b9ae8fa
-SHA256: 1d9bb1f7ded3243f45eaca5fddd5e0cd10fecaec57348908eb1558dbb44edf89
-SHA512: 0d99fb2b5f63b0784552df969484793b2c2dcb1851b6af0720183605d0a7838f4d27ce7467f36dde4a0321c310fea79b9fb578cfe9f3d601fd1f7d13443ff4be
-Description: Tiện ích cho Xen Html
-Name: LS tết 12pm
-Author: AnhDuy & vothimynhu
-Depiction: http://cydiavn.github.io/info/LStet12pm/?p=info
-SileoDepiction: http://cydiavn.github.io/info/LStet12pm/?p=info
-
-Package: AnhDuy.LStet12pm
+Package: AnhDuy.LStet
 Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.LStet12pm_1.0.2_iphoneos-arm.deb
-Size: 28312462
-MD5sum: cf5089d35d1d0edddab8e3effeda9bfc
-SHA1: d084c118a600819ebd36cdf9de82af095bad58f3
-SHA256: 27757e52f2a2405920c855a3dcf556316a9793ed83ee911cfe3779019b74a4e2
-SHA512: 07a57631a5788ea83175e52a49c1e04274595e95eef4dc57d86ff2f6203113a680a7baf1a1d4955e274197f046082c5679a6a90eb3f3f9c22f07c9053fc2231b
-Description: Tiện ích cho Xen Html
-Name: LS tết 12pm
-Author: AnhDuy & vothimynhu
-Depiction: http://cydiavn.github.io/info/LStet12pm/?p=info
-SileoDepiction: http://cydiavn.github.io/info/LStet12pm/?p=info
-
-Package: AnhDuy.LStet
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Widgets
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.LStet_0.1_iphoneos-arm.deb
-Size: 13073940
-MD5sum: c776bc007bf62cdd55fd0ba8953e9f6f
-SHA1: 37428584813e99b08b9938db2da69c7a8c315e5e
-SHA256: 9dd809300f8191b7fdb4fc2c6ad14b3e45f6f297b163b71880418032dc190e14
-SHA512: cc5141bab317ebca8b7e521c57312542acdfddd52f5aaddc1d03c48b28de0680143379e5d2272ab06d846fe559d08815698136ce8fd4b771ea999fad6313dbac
+Filename: ./Deb/AnhDuy.LStet_1.0.2_iphoneos-arm.deb
+Size: 5570558
+MD5sum: 125c131c1e0b64d1032bceba0cdb4f01
+SHA1: 8148204023b79b541c8f967469b7c65f1ee69d72
+SHA256: 4a57b113a8a8c0bb445051661adec5878c64a66651dfe2874e9820a113202e2b
+SHA512: d22586364ef20aa932a9b2f54a529528d14585822d1aba4a9189fd8dc0aeb9363e0a1dc84dfa040a913e979be1a93a0984777a40877786dde4467074e196e0bf
 Description: tiện ích cho Xen Html
-Name: LS tết
-Author: Anh Duy & vothimynhu
-Depiction: http://cydiavn.github.io/info/LStet/?p=info
-SileoDepiction: http://cydiavn.github.io/info/LStet/?p=info
-
-Package: AnhDuy.LStet
-Architecture: iphoneos-arm
-Version: 1.0.1-1
-Section: Widgets
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.LStet_1.0.1-1_iphoneos-arm.deb
-Size: 6214486
-MD5sum: 07504e285f7274eb0ec9232d14915fe4
-SHA1: 89191e316d199cb52bb4be873fd79702ea3df2ee
-SHA256: 884af5e0867fc24c2ad46e4b8a275c54ec864a3611324642f67bc661a2cb43eb
-SHA512: 2c7e0471308d5581476e262191badb6185bf653ffbb773c07aeccb1af8179ea2d46ad69b36343364fa8769f3cf7ecec14df0b8a4d9169a600575c2bace28c077
-Description: tiện ích cho Xen Html
-Name: LS tết
-Author: AnhDuy & vothimynhu
-Depiction: http://cydiavn.github.io/info/LStet/?p=info
-SileoDepiction: http://cydiavn.github.io/info/LStet/?p=info
-
-Package: AnhDuy.LStet
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Widgets
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.LStet_1.0.1_iphoneos-arm.deb
-Size: 6008670
-MD5sum: 03e37afc46ad17cc412b0c7b9155e100
-SHA1: f3d4a92e58daf3c46324d00dbf89eeacd80923be
-SHA256: 94144bd0867db359df8a217d4a1d7b2b89b081d671e82b3af00da5cdc3e0d594
-SHA512: 4896e73f79f8ade3c6a80ba812775d98e445979cd1fff1860c8e0e4277ef1281332152d8f3fd5b1f1f5f54056ec0bf52234fa6a59ca614551416b5b80b99d100
-Description: tiện ích cho Xen Html
-Name: LS tết
-Author: AnhDuy & vothimynhu
-Depiction: http://cydiavn.github.io/info/LStet/?p=info
-SileoDepiction: http://cydiavn.github.io/info/LStet/?p=info
-
-Package: AnhDuy.LStet
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Widgets
-Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.LStet_1.0_iphoneos-arm.deb
-Size: 13073860
-MD5sum: a85e937392c8dc09e44b7bf6cda931b7
-SHA1: 306e8523f1e60ae8ecbc3eeb273938f3c6dfe24d
-SHA256: dfbae4a25c50b1f456beb9285ab33d44bb9792e6e455a7a51de0cefde3a9d838
-SHA512: 296ae4b743239df88bf2437549372d133d12eb52fe1c67036e402432c4f3cc4e4baf0a15e8d72267018a1d1b666f586226cc9b2e6024db253216327ff106f4f7
-Description: Widget for Xen Html
 Name: LS tết
 Author: AnhDuy & vothimynhu
 Depiction: http://cydiavn.github.io/info/LStet/?p=info
