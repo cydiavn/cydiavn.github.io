@@ -1405,6 +1405,28 @@ Author: Spark
 Depiction: http://cydiavn.github.io/info/SnowBoard/?p=info
 SileoDepiction: http://cydiavn.github.io/info/SnowBoard/?p=info
 
+Package: AnhDuy.SnowBoard
+Architecture: iphoneos-arm
+Version: 1.5.1~Beta1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 5108
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./Deb/AnhDuy.SnowBoard_1.5.1~Beta1_iphoneos-arm.deb
+Size: 3928764
+MD5sum: 00eaae6100813f0eeeb5773d64cf8b62
+SHA1: 8347f48f58ebdb5550d9fc9bfcefb274495d641d
+SHA256: aa24406ddb84e7dca1d8344441f92bc8602fc5c41d9caf8c286bc68d026bf502
+SHA512: 54f66cfa64f80a587cba883686757105675fc1ac79a0addeb8012b7914dd590e94e0a74b911ea23a67364fe7a7be4b7f039e4a5d48a11cc49e50dbf9f77ddda7
+Description: Thay đổi chủ đề của bạn và hơn thế nữa.
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+Depiction: http://cydiavn.github.io/info/SnowBoard/?p=info
+SileoDepiction: http://cydiavn.github.io/info/SnowBoard/?p=info
+
 Package: AnhDuy.SpektrumSBWidget
 Architecture: iphoneos-arm
 Version: 1.6-1
