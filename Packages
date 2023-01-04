@@ -3900,6 +3900,29 @@ Author: MiRO <tweaks_support@miro92.com>
 Depiction: http://cydiavn.github.io/info/searchy/?p=info
 SileoDepiction: http://cydiavn.github.io/info/searchy/?p=info
 
+Package: AnhDuy.shadow
+Architecture: iphoneos-arm
+Version: 3.5.1
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 1208
+Provides: me.jjolano.shadow.beta
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.0.5)
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Filename: ./Deb/AnhDuy.shadow_3.5.1_iphoneos-arm.deb
+Size: 308770
+MD5sum: a957e9930d86d9aeaeb67ca9938e4055
+SHA1: d23497a25c994de58189118549b7613ad1b1677a
+SHA256: 9807f70f24bf2755cd952861ce3579e33f8711fc34ee0aa02a3b04e14edce393
+SHA512: 6d7f24f47112b38099e826fe5667ca55557cf4c78e94060fc749ddeb5e63febf493fabf27c6d06363b5058f8c1457985df414ed08a0179f4205385eff78b2882
+Description: bỏ qua phát hiện Jailbreak
+Name: Shadow
+Author: jjolano
+Depiction: http://cydiavn.github.io/info/shadow/?p=info
+SileoDepiction: http://cydiavn.github.io/info/shadow/?p=info
+
 Package: AnhDuy.showtouch
 Architecture: iphoneos-arm
 Version: 1.0.5
@@ -5616,6 +5639,26 @@ dev: Matt Clarke
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Depiction: https://cydiavn.github.io/Debinfo/reprovision/?p=info
 SileoDepiction: https://cydiavn.github.io/Debinfo/reprovision/?p=info
+
+Package: me.jjolano.fmwk.hookkit
+Architecture: iphoneos-arm
+Version: 0.0.12
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 340
+Depends: firmware (>= 5.0)
+Filename: ./Deb/me.jjolano.fmwk.hookkit_0.0.12_iphoneos-arm.deb
+Size: 95288
+MD5sum: 1853624cb8476203f8a5509c023cfe15
+SHA1: 9f3b0616e584c34ff9bbdc2dc4bd699d4a29739c
+SHA256: cf3b733fb09fec8fa7b1ef6676cad7c23efea4da3d29a67a08c369078bbda179
+SHA512: a4c345f55511f48bf760794c7d3c15fcc1d5f64a65354a5ac58f06dbd806de595fd91aae8ef11d46156474e5ec92880f93bb77add0bd00d175e1a738426b65dd
+Description: An iOS tweak developer framework to unify code substitution APIs in runtime. Developer package - source is available on my GitHub.
+Tag: role::developer
+Name: HookKit Framework
+Author: jjolano
+Depiction: http://cydiavn.github.io/info/hookkit/?p=info
+SileoDepiction: http://cydiavn.github.io/info/hookkit/?p=info
 
 Package: me.jjolano.shadow
 Architecture: iphoneos-arm
