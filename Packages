@@ -2081,11 +2081,11 @@ Maintainer: Anh Duy
 Installed-Size: 2393
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader
 Filename: ./Deb/AnhDuy.batterynotch_1.8_iphoneos-arm.deb
-Size: 146196
-MD5sum: 2ab09c4b6dc47c787e82eabff4848987
-SHA1: 2b33b5466d312414cc13600916145785ecf0f5e3
-SHA256: 69be683b9a6eabe5e8133a4de6cbdb4bf41df9987cebb01befc8e05767077c03
-SHA512: ec320c8e95503039a4b8f1cd423d3edfaec1e9af35425b519ff3d55b09a0e4e45474477e357340f8f00af9bcd614f5a1a1a509e9aa9752e205150281b54e6c61
+Size: 146202
+MD5sum: 64e6e6cd7d61a0a55ed2a08961e32237
+SHA1: 0e657432b7ae9e78e8dd6d0ccc190a8df4bc0881
+SHA256: e096934fdcb6f7e5d92fb4d228efcaf1eb818f574adb983660a5aeef50d25d56
+SHA512: 76111b369f57d2177be252695097ed6ea011a70c124a58e993f75a1a988dbb88c41ecd4da95c02dbb40de65b67d39d6ab698f34e67efcc0b69472495f063ce83
 Description: thanh pin vòng quanh tai thỏ hoặc toàn màn hình cho iPhone X trở lên
 Name: BatteryNotch
 Author: gilshahar7 <gilshahardex99@gmail.com>
