@@ -3923,6 +3923,29 @@ Author: jjolano
 Depiction: http://cydiavn.github.io/info/shadow/?p=info
 SileoDepiction: http://cydiavn.github.io/info/shadow/?p=info
 
+Package: AnhDuy.shadow
+Architecture: iphoneos-arm
+Version: 3.5.2
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 1208
+Provides: me.jjolano.shadow.beta
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.0.5)
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Filename: ./Deb/AnhDuy.shadow_3.5.2_iphoneos-arm.deb
+Size: 306396
+MD5sum: 5190124ade5592a9215f23a8b42d5e7d
+SHA1: 8cfa0fe8a5685ad843517a6460b5b37220d40c7f
+SHA256: 2fab44db23af5af95bdd9bac0cd47bc897adee5f8e23ab670fc03fce35e613d2
+SHA512: 49dbf00a95ec47cd86eb555d20c8944b43d42ff8cd26f6413f9c050108e55e6e1778711609403df4c595fd6eb809ebc9bfeedf53fdb5fbd32fd0f67f825cc188
+Description: bỏ qua phát hiện jailbreak.
+Name: Shadow
+Author: jjolano
+Depiction: http://cydiavn.github.io/info/shadow/?p=info
+SileoDepiction: http://cydiavn.github.io/info/shadow/?p=info
+
 Package: AnhDuy.showtouch
 Architecture: iphoneos-arm
 Version: 1.0.5
