@@ -3306,6 +3306,25 @@ Depiction: http://cydiavn.github.io/info/latchkey/?p=info
 SileoDepiction: http://cydiavn.github.io/info/latchkey/?p=info
 Author: Maxwell Dausch <max.dausch@gmail.com>
 
+Package: AnhDuy.latchkey
+Architecture: iphoneos-arm
+Version: 2.3-3
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 13440
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./Deb/AnhDuy.latchkey_2.3-3_iphoneos-arm.deb
+Size: 20137626
+MD5sum: 041d6be1483ca35b22c486e1be8616cb
+SHA1: 41f653d28c6169c2130b4be3501fc6f4c4778572
+SHA256: 4b3d5aa5f2299b656ed42966065846632ea71395df1739c41cd833c930421d66
+SHA512: 3cc27ebe8f6754ff9b1ca516eafe68786c00a83ae43b8fba64259f576750273687abd333b29b122c56723891132b3882f97d31f14d21d2e370a2a11878682c35
+Description: Di chuyển và tạo chủ đề cho biểu tượng khóa Face-ID
+Name: LatchKey
+Depiction: http://cydiavn.github.io/info/latchkey/?p=info
+SileoDepiction: http://cydiavn.github.io/info/latchkey/?p=info
+Author: Maxwell Dausch <max.dausch@gmail.com>
+
 Package: AnhDuy.letmedecline
 Architecture: iphoneos-arm
 Version: 1.0
