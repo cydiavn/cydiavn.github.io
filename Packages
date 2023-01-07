@@ -3984,6 +3984,29 @@ Author: jjolano
 Depiction: http://cydiavn.github.io/info/shadow/?p=info
 SileoDepiction: http://cydiavn.github.io/info/shadow/?p=info
 
+Package: AnhDuy.shadow
+Architecture: iphoneos-arm
+Version: 3.5.3
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 1208
+Provides: me.jjolano.shadow.beta
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.0.5)
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Filename: ./Deb/AnhDuy.shadow_3.5.3_iphoneos-arm.deb
+Size: 306404
+MD5sum: f2dd8b87b01feb9c52889807b6c3644d
+SHA1: 4e02419d9605156fc581f66a89346362838eff14
+SHA256: 0c142a7b10de097b502c1fc1561909629f58f28816d0bfc0ff1c405b5e2aeefc
+SHA512: 5dafad9a0e2e97c9c7b1ea5247ca15a2561e15aa2f548ccb9fe0604fe44560e765f34ede01a6c4446b5496ea44899be2e31de48e8195497988b47539186a0f63
+Description: bỏ qua phát hiện jailbreak.
+Name: Shadow
+Author: jjolano
+Depiction: http://cydiavn.github.io/info/shadow/?p=info
+SileoDepiction: http://cydiavn.github.io/info/shadow/?p=info
+
 Package: AnhDuy.showtouch
 Architecture: iphoneos-arm
 Version: 1.0.5
@@ -5714,6 +5737,26 @@ MD5sum: 1853624cb8476203f8a5509c023cfe15
 SHA1: 9f3b0616e584c34ff9bbdc2dc4bd699d4a29739c
 SHA256: cf3b733fb09fec8fa7b1ef6676cad7c23efea4da3d29a67a08c369078bbda179
 SHA512: a4c345f55511f48bf760794c7d3c15fcc1d5f64a65354a5ac58f06dbd806de595fd91aae8ef11d46156474e5ec92880f93bb77add0bd00d175e1a738426b65dd
+Description: An iOS tweak developer framework to unify code substitution APIs in runtime. Developer package - source is available on my GitHub.
+Tag: role::developer
+Name: HookKit Framework
+Author: jjolano
+Depiction: http://cydiavn.github.io/info/hookkit/?p=info
+SileoDepiction: http://cydiavn.github.io/info/hookkit/?p=info
+
+Package: me.jjolano.fmwk.hookkit
+Architecture: iphoneos-arm
+Version: 0.1
+Section: System
+Maintainer: Anh Duy
+Installed-Size: 340
+Depends: firmware (>= 5.0)
+Filename: ./Deb/me.jjolano.fmwk.hookkit_0.1_iphoneos-arm.deb
+Size: 95334
+MD5sum: b415bf9d94a955f4858a85ed1b389d61
+SHA1: b82c5938bc445633715b9d8c7c5196fd512425ea
+SHA256: 07339f62ce453cb28085543ca43517ea5f65b35f2fcfd6c620f63380f2b187e1
+SHA512: fb6f48e1acbdb33eb157b29bd49f7e53283e1587a3febd5c883a641ae4bcab6ccf3f15a46b5e78cc6acafe35b19294255ea01a5927ec81b8cb1fc36dc657c537
 Description: An iOS tweak developer framework to unify code substitution APIs in runtime. Developer package - source is available on my GitHub.
 Tag: role::developer
 Name: HookKit Framework
