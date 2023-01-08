@@ -2075,6 +2075,25 @@ SileoDepiction: http://cydiavn.github.io/info/batterynotch/?p=info
 
 Package: AnhDuy.batterynotch
 Architecture: iphoneos-arm
+Version: 1.8.2
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 2393
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader
+Filename: ./Deb/AnhDuy.batterynotch_1.8.2_iphoneos-arm.deb
+Size: 146302
+MD5sum: 9086cc688e8b9e47267110ae9a2a8571
+SHA1: d0574336d7a79d9f3c190acb965ae87f02a49074
+SHA256: 8bdbe3024aaeeb8e140eadf9d741b15ed0b67108ef47afdcdd75494739459465
+SHA512: a994e18a63da829c0584a34ce2b477f413f498abc8b0087f0f599579420796106d2806aabf6860385e863275c45c3f33bbdc8cef910d1e9c2733daa3df7527f4
+Description: thanh pin vòng quanh tai thỏ hoặc toàn màn hình cho iPhone X trở lên
+Name: BatteryNotch
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Depiction: http://cydiavn.github.io/info/batterynotch/?p=info
+SileoDepiction: http://cydiavn.github.io/info/batterynotch/?p=info
+
+Package: AnhDuy.batterynotch
+Architecture: iphoneos-arm
 Version: 1.8
 Section: Tweaks
 Maintainer: Anh Duy
