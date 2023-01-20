@@ -2758,6 +2758,25 @@ Author: MTAC <mtactheming@gmail.com>
 Depiction: http://cydiavn.github.io/info/fingerlock/?p=info
 SileoDepiction: http://cydiavn.github.io/info/fingerlock/?p=info
 
+Package: AnhDuy.fingerlock
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 896
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./Deb/AnhDuy.fingerlock_3.0_iphoneos-arm.deb
+Size: 276136
+MD5sum: 16ac87f5f1d1b247bfb6865f980f1d6e
+SHA1: f9dc0ffeee622289f0ef9ba3e3b5c4241f4dbe7c
+SHA256: 5137c992cde09062b087fb91dd6a57e846d16fd4919716d1ad76db242508106b
+SHA512: 4caa1e5b3150aa82c131540f079473522ec228cf98529357b0a462a412a7395e897f5f9c8359514316be1ec4d2c498c1367cb6e94c658be5b98897f5f905f73b
+Description: Cách tốt nhất để mở khóa thiết bị của bạn
+Name: FingerLock
+Depiction: http://cydiavn.github.io/info/fingerlock/?p=info
+SileoDepiction: http://cydiavn.github.io/info/fingerlock/?p=info
+Author: MTAC <mtac@mtac.app>
+
 Package: AnhDuy.flavor
 Architecture: iphoneos-arm
 Version: 1.2.5
