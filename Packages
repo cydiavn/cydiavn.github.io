@@ -2619,6 +2619,31 @@ Author: Ginsu <njl02@outlook.com>
 Sponsor: Ginsu Tweaks <njl02@outlook.com>
 SomeOtherEntryToControl: True
 
+Package: AnhDuy.dodo
+Architecture: iphoneos-arm
+Version: 3.4.4
+Section: Tweaks
+Maintainer: Anh Duy
+Depends: firmware (>=14.0), mobilesubstrate (>= 0.9.5000), dev.theos.orion14, com.opa334.altlist, preferenceloader, com.ginsu.libgscommon (>= 1.2.6-2), com.peterdev.libpddokdo
+Filename: ./Deb/AnhDuy.dodo_3.4.4_iphoneos-arm.deb
+Size: 1203230
+MD5sum: e02836bc30d84ab39eba828a18141d4a
+SHA1: da0caf6443ef9dc25fcbf3b9f55ba56bddb3d12c
+SHA256: 246ddcd900940200fe93e9b1426e2490711779c9410d3dcba41d7f6d13c2e439
+SHA512: d9d6230c6a5c052ea80db7ef23ee00d7a06031c5925eb20b48995ff8574372f0574a2c8dd875c7cc3f2975f3a145fce078e5226c5e3f449451f52f11d9b63efa
+Homepage: https://repo.ginsu.dev
+Description: Thiết kế lại LS hoàn hảo.
+Tag: role::enduser
+Name: Dodo
+Depiction: http://cydiavn.github.io/info/dodo/?p=info
+SileoDepiction: http://cydiavn.github.io/info/dodo/?p=info
+ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.dodo.json
+Icon: https://repo.ginsu.dev/assets/com.ginsu.dodo/icon.png
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Author: Ginsu <njl02@outlook.com>
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+SomeOtherEntryToControl: True
+
 Package: AnhDuy.dualclock2
 Architecture: iphoneos-arm
 Version: 1.0.2
