@@ -1899,6 +1899,26 @@ Author: hmodei96
 Depiction: http://cydiavn.github.io/info/appshacks/?p=info
 SileoDepiction: http://cydiavn.github.io/info/appshacks/?p=info
 
+Package: AnhDuy.aquaboardx
+Architecture: iphoneos-arm
+Version: 2.0-58
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 768
+Depends: mobilesubstrate, preferenceloader, org.mr.unsubs
+Conflicts: net.limneos.aquaboard, net.limneos.aquaboard8, com.fuyuchi.unlockize
+Filename: ./Deb/AnhDuy.aquaboardx_2.0-58_iphoneos-arm.deb
+Size: 171270
+MD5sum: 7c900596895149c8d08b413fa1e9d849
+SHA1: a4c59fb81a0b7da34cfdfed1cfe62cb7b10f58ff
+SHA256: 65d6ddfd5d1bff6718c628849edd09435194497b0db903c03d547efc43257c29
+SHA512: 6d4e6e1693ff18e250945db8b6473d7a68a35a098a6ad75abf1402107a418b1301414b6c8efb23ab4cfac5b413d61f1e4d0c0501d776b6a48ba7f47c31f971d7
+Description: Hiệu ứng nước tuyệt vời trên SpringBoard
+Name: AquaBoard XS (iOS 11 to 16)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://cydiavn.github.io/info/aquaboardx/?p=info
+SileoDepiction: http://cydiavn.github.io/info/aquaboardx/?p=info
+
 Package: AnhDuy.audiorecorderxs
 Architecture: iphoneos-arm
 Version: 3.7-42
