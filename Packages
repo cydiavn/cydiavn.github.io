@@ -1803,6 +1803,26 @@ Author: alimaulana
 Depiction: http://cydiavn.github.io/info/aim/?p=info
 SileoDepiction: http://cydiavn.github.io/info/aim/?p=info
 
+Package: AnhDuy.aimpro
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Anh Duy
+Installed-Size: 5780
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe
+Filename: ./Deb/AnhDuy.aimpro_1.0.1_iphoneos-arm.deb
+Size: 2977842
+MD5sum: 42889dcd531eed412924abd403c5e840
+SHA1: 53bd4eb9d178a818609dce49362906275c44c7b9
+SHA256: c977787f010fb18d9c9ba94c564578d01aa3161a31eeeace9756f5da486b2384
+SHA512: d8dec1e45011afd262f08b60b515b5769b8e0a7b05cc8b88de64662d2f4df98f22d84622fc34245fabba38162bf1ee4292bdd4c2d8245c34e058e4da21d6cc29
+Description: Màn hình khóa kiểu iOS 16
+Name: AIM Pro
+Author: alimaulana
+Depiction: http://cydiavn.github.io/info/aimpro/?p=info
+SileoDepiction: http://cydiavn.github.io/info/aimpro/?p=info
+
 Package: AnhDuy.animations
 Architecture: iphoneos-arm
 Version: 1.0
