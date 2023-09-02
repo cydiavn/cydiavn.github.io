@@ -1,0 +1,11 @@
+Origin: Cydia Viet Nam
+Label: Cydia Viet Nam
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Anh Duy
+MD5Sum:
+ f65b6428dbcbc953370d702a05b29746 272112 Packages
+ 66be13b1995ebaec3bfde1292c112e7d 66228 Packages.bz2
