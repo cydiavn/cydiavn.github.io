@@ -4330,24 +4330,25 @@ Architecture: iphoneos-arm
 Version: 1.6.2
 Section: Tweaks
 Maintainer: Anh Duy
-Installed-Size: 2364
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
 Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
 Filename: ./Deb/AnhDuy.shuffle_1.6.2_iphoneos-arm.deb
-Size: 606068
-MD5sum: e48710cb2667ad01ef173e46dbaa3391
-SHA1: 84571197e6337c994ceb9b2f07bd8395e76becfd
-SHA256: 054925aaf4a42995599976cf50aae1ebb34c3b979420f8dc438cc062b6090277
-SHA512: 665260ccf9434b64f6484a08d0add9216ecac2ba6591f25f6a5e80e68d35284d62c7b07762314cf34959ee082d10227aeee41edece8a708ec8172988e6551231
+Size: 606082
+MD5sum: e6152c077d59282a652051949ec74d14
+SHA1: a6fd54ac9de87583b35956f407eb06a3da01f9c0
+SHA256: fc727958da0b88005c03d0a9218e67a57bb672e1def1bb034630b58152b2f707
+SHA512: 024bd394c179fea044dbbf8afde588e7820fc80d8df8129984155ba1297cbc3f70e6b049f1894a432604960c7de2155320eed1fcd59cdff02f552e48da1f53db
+Homepage: https://cydiavn.github.io
 Description: Sắp xếp cài đặt của bạn
-Tag: purpose::extension, compatible_min::ios10
 Name: Shuffle
 Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: http://cydiavn.github.io/info/shuffle/?p=info
-SileoDepiction: http://cydiavn.github.io/info/shuffle/?p=info
+Depiction: http://cydiavn.github.io/Info/shuffle//Html/shuffle.html
+SileoDepiction: https://cydiavn.github.io/Info/Json/shuffle.json
+Tags: compatible_min::ios10, compatible_max::ios15
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+ModernDepiction: https://cydiavn.github.io/Info/Json/shuffle.json
 
 Package: AnhDuy.siliquapro
 Architecture: iphoneos-arm
