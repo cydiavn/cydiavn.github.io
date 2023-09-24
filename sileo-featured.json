@@ -1,0 +1,13 @@
+{
+"class":"FeaturedBannersView",
+"itemSize":"{263, 148}",
+"itemCornerRadius":8,
+"banners":[
+{
+"package":"anhduy.shuffle",
+"title":"",
+"url":"http://cydiavn.github.io/Images/shuffle/Banner.jpg",
+"hideShadow":"false"
+}
+]
+}
