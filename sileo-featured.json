@@ -4,7 +4,7 @@
 "itemCornerRadius":8,
 "banners":[
 {
-"package":"AnhDuy.shuffle",
+"package":"anhduy.shuffle",
 "title":"",
 "url":"http://cydiavn.github.io/Images/shuffle/Banner.jpg",
 "hideShadow":"false"
