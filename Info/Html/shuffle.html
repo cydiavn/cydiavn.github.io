@@ -3,9 +3,8 @@
    <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=0">
-      <title>SHUFFLE</title>
       <link rel="stylesheet" type="text/css" href="https://cydiavn.github.io/Info/System/Scripts/Style.css">
-      <style>a, .tint, .table-btn:after {color: #6CC1FF} .active {color: #6CC1FF; border-bottom: 2px solid #6CC1FF;}</style>
+      <style>a, .tint, .table-btn:after {color: #5777B8} .active {color: #5777B8; border-bottom: 2px solid #5777B8;}</style>
       <script src="https://cydiavn.github.io/Info/System/Scripts/Version.js"></script>
    </head>
    <body>
@@ -22,27 +21,45 @@
          <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Nhật ký thay đổi</div>
       </div>
       <div class="tweak_info">
-         <p class="compatibility"><b>Khả năng tương thích:</b>Gói này tương thích với iOS iOS 10 đến 15</p>
+         <p class="compatibility"></p>
          <br><br> 
          <div class="md_view">
             <h2>Nội dung</h2>
             <br>
-            <h4>Sắp xếp lại cài đặt của bạn</h4>
+            <h4>
+               <blue>Shuffle là một tinh chỉnh sắp xếp cài đặt của bạn thành các mục dễ sử dụng và gọn gàng hơn!</blue>
+            </h4>
             <br>
-            </p>
+            <p>- Phần tinh chỉnh để truy cập tất cả các cài đặt tinh chỉnh của bạn</p>
+            <p>- Phần ứng dụng hệ thống cho tất cả các cài đặt liên quan đến ứng dụng gốc</p>
+            <p>- Phần ứng dụng AppStore cho tất cả các cài đặt liên quan đến ứng dụng của bên thứ 3</p>
+            <br>
+            <h4>
+               <green>Shuffle cũng thêm các tùy chọn hữu ích để quản lý các chỉnh sửa như:</green>
+            </h4>
+            <p>+ Sao chép danh sách tinh chỉnh của bạn</p>
+            <p>+ Duyệt các gói đã cài đặt</p>
+            <p>+ Ẩn tùy chọn chỉnh sửa</p>
+            <p>+ Vô hiệu hóa tinh chỉnh dylibs (tương thích với iCleaner dylib manager)</p>
+            <p>+ Xem thông tin/mô tả tinh chỉnh</p>
+            <p>+ Gỡ cài đặt chỉnh sửa</p>
             <br><br><br> 
-         </div>
-         <h2>Hình ảnh</h2>
-         <div class="scroll_view">
-            <img class="imgcard" src="https://cydiavn.github.io/Images/shuffle/Screenshots/1.png">
-            
+            <h2>Hình ảnh</h2>
+            <div class="scroll_view">
+               <img class="imgcard" src="https://cydiavn.github.io/Images/shuffle/Screenshots/1.png">
+            </div>
          </div>
          <h2>Thông tin</h2>
-         <br>
+         <br> 
          <div class="table">
             <div class="cell">
                <div class="title">Nhà phát triển</div>
-               <div class="text">@CreatureSurvive</div>
+               <div class="text">CreatureSurvive</div>
+               <br>
+            </div>
+            <div class="cell">
+               <div class="title">Phiên bản</div>
+               <div class="text">1.6.2</div>
                <br>
             </div>
             <div class="cell">
@@ -52,12 +69,12 @@
             </div>
             <div class="cell">
                <div class="title">Ngày tải lên</div>
-               <div class="text">24/09/2023</div>
+               <div class="text">26/09/2023</div>
                <br>
             </div>
             <div class="cell">
                <div class="title">Khả năng tương thích</div>
-               <div class="text">iOS 10 đến 15</div>
+               <div class="text">iOS 10.0 đến 15.5</div>
                <br><br>
             </div>
          </div>
@@ -66,8 +83,13 @@
          <div class="changelog_entry">
             <h4>Phiên bản 1.6.2</h4>
             <div class="md_view">
-               <p>- Thêm hỗ trợ iOS 15</p>
-           
+               <p>- Đã hỗ trợ cho iOS 15 và Rootless jailbreak</p>
+               <p>- Đã hỗ trợ cho ảnh động Gif trong hình ảnh biểu ngữ</p>
+               <p>- Đã hỗ trợ tải lại nhanh ứng dụng cài đặt để áp dụng các thay đổi đối với cài đặt shuffle</p>
+               <p>- Đã xóa tùy chọn gỡ cài đặt gói qua DPKG trong phần nâng cao</p>
+               <p>- Đã khắc phục sự cố có thể khiến giao diện người dùng bị treo khi tải lại ứng dụng của bên thứ 3</p>
+               <p>- Đã khắc phục sự cố có thể ngăn tiện ích phát ngẫu nhiên chạy nếu TweakSettings chưa được cài đặt</p>
+            </div>
          </div>
       </div>
       <br><br>
@@ -85,5 +107,5 @@
       </div>
       <p class="text_center">Copyright © 2023 - 2050 by Anh Duy</p>
    </body>
-   <script>compatible("10.0","15.4.1","iOS 10.0 đến 15.4.1"); externalize()</script>
+   <script>compatible("10.0","15.5","iOS 10.0 đến 15.5"); externalize()</script>
 </html>
