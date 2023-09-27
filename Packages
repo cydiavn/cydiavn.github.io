@@ -23,3 +23,24 @@ Tags: compatible_min::ios10, compatible_max::ios15
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 ModernDepiction: https://cydiavn.github.io/Info/Json/shuffle.json
 
+Package: AnhDuy.trollstorehelper
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Applications
+Maintainer: Anh Duy
+Installed-Size: 676
+Filename: ./Deb/AnhDuy.trollstorehelper_1.5.1_iphoneos-arm.deb
+Size: 272536
+MD5sum: d42c8f3b248238e831820fff39274808
+SHA1: 130ae581c06c9dd4a3da703692bc504eac976b5e
+SHA256: ba817a5259e7dd6ec7f090e1aedff5b5ede48a81e237ac84a894c134405dc584
+SHA512: d8df9218aa918f7793dfe005211327187bd795be20321b7bb211730d517fc4f262e1253cad5ea8ed7bcb9c066cf5742f029fc647b36de2dab262b27893edf1e8
+Homepage: https://cydiavn.github.io
+Description: Trợ giúp cài đặt và quản lý TrollStore!
+Name: TrollStore Helper
+Author: opa334
+Depiction: http://cydiavn.github.io/Info/Html/trollstorehelper.html
+SileoDepiction: https://cydiavn.github.io/Info/Json/trollstorehelper.json
+ModernDepiction: https://cydiavn.github.io/Info/Json/trollstorehelper.json
+Tags: compatible_min::ios14, compatible_max::ios15
+
