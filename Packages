@@ -30,11 +30,11 @@ Section: Applications
 Maintainer: Anh Duy
 Installed-Size: 676
 Filename: ./Deb/AnhDuy.trollstorehelper_1.5.1_iphoneos-arm.deb
-Size: 272538
-MD5sum: 7c8e785e887969626c6c452c8f533456
-SHA1: 382c38cc2abc700fd766d6bdbf2b3426b5af87fd
-SHA256: bd75ef559c6a432682e7af4b6befacb0b47d0eeb2b516183fdaa4eaf15a0d5e4
-SHA512: a0c92c127dd5133d6a28558fb526eb5fdcd36ad99b91eef2428386f87b4f349b72b071210f7274833bb89defbe62090562ad07f59bdcde629378e38869901a1b
+Size: 272540
+MD5sum: ad338e646c5a07fd76e2b6299f397590
+SHA1: 2d0d5ff47116d717d54dbb5e106358597b5cbfcb
+SHA256: be4d3372283b0bf2e899f0fc966f233114e61cf5fc218ee2a28d8f8094ec694f
+SHA512: 7be0a158092cbcee394acccf68892589ee362511171a0eed57cabba8ef29a127715cef929929555a9a5a117c6262cff996e7be5b2546529cfbae010fdba4fd07
 Homepage: https://cydiavn.github.io
 Description: Trợ giúp cài đặt và quản lý TrollStore!
 Name: TrollStore Helper
@@ -42,5 +42,5 @@ Author: opa334
 Depiction: http://cydiavn.github.io/info/Html/trollstorehelper.html
 SileoDepiction: https://cydiavn.github.io/info/Json/trollstorehelper.json
 ModernDepiction: https://cydiavn.github.io/info/Json/trollstorehelper.json
-Tags: compatible_min::ios14, compatible_max::ios15
+Tags: compatible_min::ios14.0, compatible_max::ios14.8.1
 
