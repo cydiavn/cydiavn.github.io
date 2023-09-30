@@ -1,0 +1,46 @@
+Package: AnhDuy.shuffle
+Architecture: iphoneos-arm
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Anh Duy
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./Deb/AnhDuy.shuffle_1.6.2_iphoneos-arm.deb
+Size: 606080
+MD5sum: 0ba1a78e6f1587fa2e5ebafd8cee20f8
+SHA1: 391d3f445bf57ec43420bfb031e44b8920dfab9d
+SHA256: 6429c8ed35cbeeabfbc80fbc91262ac1fa9ca7f89c7cb60b2e946dd81adbab3a
+SHA512: e34ff3b0cf94d6260104584df20faa2a28df75c62c708f0222d718e3855668395e5fdc04a03927faabd5a1c06dc07daefb4588eec4cc02d0cf01a49c0d80634c
+Homepage: https://cydiavn.github.io
+Description: Sắp xếp cài đặt của bạn
+Name: Shuffle
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: http://cydiavn.github.io/info/Html/shuffle.html
+SileoDepiction: https://cydiavn.github.io/info/Json/shuffle.json
+Tags: compatible_min::ios10, compatible_max::ios15
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+ModernDepiction: https://cydiavn.github.io/info/Json/shuffle.json
+
+Package: AnhDuy.trollstorehelper
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Applications
+Maintainer: Anh Duy
+Installed-Size: 676
+Filename: ./Deb/AnhDuy.trollstorehelper_1.5.1_iphoneos-arm.deb
+Size: 272540
+MD5sum: ad338e646c5a07fd76e2b6299f397590
+SHA1: 2d0d5ff47116d717d54dbb5e106358597b5cbfcb
+SHA256: be4d3372283b0bf2e899f0fc966f233114e61cf5fc218ee2a28d8f8094ec694f
+SHA512: 7be0a158092cbcee394acccf68892589ee362511171a0eed57cabba8ef29a127715cef929929555a9a5a117c6262cff996e7be5b2546529cfbae010fdba4fd07
+Homepage: https://cydiavn.github.io
+Description: Trợ giúp cài đặt và quản lý TrollStore!
+Name: TrollStore Helper
+Author: opa334
+Depiction: http://cydiavn.github.io/info/Html/trollstorehelper.html
+SileoDepiction: https://cydiavn.github.io/info/Json/trollstorehelper.json
+ModernDepiction: https://cydiavn.github.io/info/Json/trollstorehelper.json
+Tags: compatible_min::ios14.0, compatible_max::ios14.8.1
+
