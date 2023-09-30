@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://cydiavn.github.io/Info/System/Images/SileoBanner.png",
+"headerImage":"https://cydiavn.github.io/info/System/Images/SileoBanner.png",
 "tintColor":"#6CC1FF",
 "tabs":[
 {
@@ -74,7 +74,7 @@
 {
 "class":"DepictionTableButtonView",
 "title":"Liên hệ hỗ trợ",
-"action":"depiction-https://cydiavn.github.io/Info/Json/Support.json",
+"action":"depiction-https://cydiavn.github.io/info/Json/Support.json",
 "openExternal":"true",
 "tintColor":"#6CC1FF"
 },
