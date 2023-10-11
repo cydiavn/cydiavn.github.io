@@ -1642,15 +1642,15 @@ SileoDepiction: http://cydiavn.github.io/info/WeatherCute/?p=info
 
 Package: AnhDuy.WeatherCute
 Architecture: iphoneos-arm
-Version: 1.0.2
+Version: 1.0.3
 Section: Widgets
 Maintainer: Anh Duy <kiemphapngami@gmail.com>
-Filename: ./Deb/AnhDuy.WeatherCute_1.0.2_iphoneos-arm.deb
-Size: 13168628
-MD5sum: cba1705f4cdd9271b19c221dacd4d468
-SHA1: c0ecc01807db8ad51ebc3b9baa6625037f189132
-SHA256: ecee76b204d8b4c212125f457903d7e9f852f369fbd1d2d6d6079a5b6e6dbacd
-SHA512: bae1840eda34f5fa91f9b54726b1bc9ba9e10b5b1ff88b693b92cbd6151b3eff6e49ce876f51867f9dd2b351f7caed120d39e4055d313fa4f35a7d99eea7e398
+Filename: ./Deb/AnhDuy.WeatherCute_1.0.3_iphoneos-arm.deb
+Size: 13168618
+MD5sum: 9a847fd6565c04e583a0b207648ac8ba
+SHA1: 4d9794fb04dd1dafff83d903c5d602a87ea155d9
+SHA256: 2dc6ca1844d66630749438f14524981962f9c5fe8b32da81d865b162d44c31ec
+SHA512: c415a342199d17c581bbbacfafbe1029c38cb1dcdca592881d95f8fe83dea8628d05c8973b6a8bba2faad52434b8c6ddcda802bd8a51d970fb1146bf8c43ce06
 Description: Widget cho Xen Html
 Name: WeatherCute
 Author: Anh Duy
