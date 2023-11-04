@@ -336,18 +336,18 @@ Maintainer: Anh Duy
 Installed-Size: 669
 Depends: AnhDuy.fonts
 Filename: ./Deb/AnhDuy.Clock16_1.0_iphoneos-arm.deb
-Size: 204566
-MD5sum: 2d343a7851dddb4f1bf6ae14ab701c2d
-SHA1: f8650910061f16f272ea4a0a15701e9b93127950
-SHA256: 36b3aa852214215586031283f938204a5d844102c24df0c42c9f07265abdcbdb
-SHA512: 06d7555742643df15e3e53040f61f9faa1a64dd7d09c870d80df3a5e3cbea097f4e94c7c0dbed120f9577390a8d542df6b0f778055f89c6657c3c0993d0af2c2
+Size: 204568
+MD5sum: b37875336f22fa9727ff9c4077c69a3a
+SHA1: cc466ea00da5698cf71b33a1c89689f6c0769c56
+SHA256: 39f250297b2e08108433f40e869f90c93acdef954e807d0c6533d5c012828c8d
+SHA512: 8000f5dcc03dea3b3dd358ff89eded63b4c8586b18facfb23e8c425aec827f31ff5015c5752eea674c23c0c8b95d09010db3ff66d9b1a0411b555a7da713ec96
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn khoá
  - Nội dung hiển thị: Đồng hồ, thứ ngày tháng.
 Name: Clock16
 Author: Anh Duy
-Depiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
-SileoDepiction: http://cydiavn.github.io/info/SimpleLS2/?p=info
+Depiction: http://cydiavn.github.io/info/Clock16/?p=info
+SileoDepiction: http://cydiavn.github.io/info/Clock16/?p=info
 
 Package: AnhDuy.ClockFrame
 Architecture: iphoneos-arm
